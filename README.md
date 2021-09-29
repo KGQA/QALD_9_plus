@@ -10,6 +10,15 @@ As the questions' translations were provided by native speakers, they are consid
 
 # Dataset Statistics
 
+|       | en  | de  | ru   | lt | uk  | be | arm | fr | DBpedia | Wikidata | # questions |
+|-------|-----|-----|------|----|-----|----|-----|----|---------|----------|-------------|
+| Train | 408 | 545 | 1294 | 63 | 262 | 80 |  80 | 80 |     408 |      373 |         408 |
+| Test  | 150 | 177 |  378 | 28 | 170 | 12 |  20 | 20 |     150 |      137 |         150 |
+
+Given the numbers, it is obvious that some of the languages are covered more than once \ie there is more than one translation for a particular question.
+For example, there are 1294 Russian translations available while only 408 unique questions exist in the training subset (\ie 3.2 Russian translations per one question).
+This enables the dataset users to address also the paraphrasing task.
+
 # Cite
 
 To Be Done
