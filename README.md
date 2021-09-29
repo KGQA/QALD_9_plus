@@ -1,5 +1,18 @@
-# QALD+ Dataset
-QALD+ Dataset for Knowledge Graph Question Answering
+# QALD+ Dataset Description
+
+QALD+ is the dataset for Knowledge Graph Question Answering (KGQA) based on well-known [QALD-9](https://github.com/ag-sc/QALD/tree/master/9/data).
+
+QALD+ enables to train and test KGQA systems over DBpedia and Wikidata using questions in 8 different languages.
+
+Some of the questions have several alternative writings in particular languages which enables to evaluate the robustness of KGQA systems and train paraphrasing models.
+
+As the questions' translations were provided by native speakers, they are considered as "gold standard", therefore, machine translation tools can be trained and evaluated on the dataset.
+
+# Dataset Statistics
+
+# Cite
+
+To Be Done
 
 # Licence
 
