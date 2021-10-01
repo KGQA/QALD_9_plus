@@ -27,7 +27,7 @@ We used [GERBIL]() system for the evaluation of the dataset. For the comparison,
 |     | en |
 |-----|----|
 |Test |[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010001)|
-|Train|    |
+|Train|[]()|
 
 # Cite
 
