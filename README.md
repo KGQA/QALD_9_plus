@@ -19,6 +19,16 @@ Given the numbers, it is obvious that some of the languages are covered more tha
 For example, there are 1294 Russian translations available while only 408 unique questions exist in the training subset (\ie 3.2 Russian translations per one question).
 This enables the dataset users to address also the paraphrasing task.
 
+# Evaluation
+
+We used [GERBIL]() system for the evaluation of the dataset. For the comparison, Macro F1 metric was used. The detailed information for the experiments is available at the individual link (click the value in the cells).
+
+## Wikidata
+|     | en |
+|-----|----|
+|Test |[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010001)|
+|Train|    |
+
 # Cite
 
 To Be Done
