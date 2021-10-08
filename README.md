@@ -28,7 +28,7 @@ We used [GERBIL]() system for the evaluation of the dataset. For the comparison,
 |     | en | de | ru | fr |
 |-----|----|----|----|----|
 |Test |[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010001)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010002)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010003)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010004)|
-|Train|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010007)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080002)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080003)|[]()|
+|Train|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010007)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080002)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080003)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080004)|
 
 # Cite
 
