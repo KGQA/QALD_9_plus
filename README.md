@@ -24,11 +24,17 @@ This enables the dataset users to address also the paraphrasing task.
 We used [GERBIL]() system for the evaluation of the dataset. For the comparison, Macro F1 metric was used. The detailed information for the experiments is available at the individual link (click the value in the cells).
 
 ## Wikidata
+
 ### QAnswer
+
 |     | en | de | ru | fr |
 |-----|----|----|----|----|
 |Test |[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010001)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010002)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010003)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010004)|
 |Train|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010007)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080002)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080003)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080004)|
+
+### DeepPavlov
+
+### Platypus
 
 # Cite
 
