@@ -37,7 +37,7 @@ We used [GERBIL]() system for the evaluation of the dataset. For the comparison,
 
 |     | en | ru |
 |-----|----|----|
-|Test |[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080010)||
+|Test |[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080010)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110090000)|
 |Train|||
 
 ### Platypus
