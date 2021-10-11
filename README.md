@@ -34,7 +34,6 @@ We used [GERBIL]() system for the evaluation of the dataset. For the comparison,
 
 ### DeepPavlov
 
-
 |     | en | ru |
 |-----|----|----|
 |Test |[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080010)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110090000)|
@@ -42,9 +41,12 @@ We used [GERBIL]() system for the evaluation of the dataset. For the comparison,
 
 ### Platypus
 
-## DBpedia
+|     | en | fr |
+|-----|----|----|
+|Test |[0.00]()|[0.00]()|
+|Train|[0.00]()|[0.00]()|
 
-## gAnswer
+## DBpedia
 
 ### QAnswer
 
