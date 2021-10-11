@@ -43,7 +43,7 @@ We used [GERBIL]() system for the evaluation of the dataset. For the comparison,
 
 |     | en | fr |
 |-----|----|----|
-|Test |[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110004)|[0.00]()|
+|Test |[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110004)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110005)|
 |Train|[0.00]()|[0.00]()|
 
 ## DBpedia
