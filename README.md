@@ -42,6 +42,12 @@ We used [GERBIL]() system for the evaluation of the dataset. For the comparison,
 
 ### Platypus
 
+## DBpedia
+
+## gAnswer
+
+### QAnswer
+
 # Cite
 
 To Be Done
