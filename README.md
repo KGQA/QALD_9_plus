@@ -50,6 +50,11 @@ We used [GERBIL]() system for the evaluation of the dataset. For the comparison,
 
 ### QAnswer
 
+|     | en | de | ru | fr |
+|-----|----|----|----|----|
+|Test |[0.00]()|[0.00]()|[0.00]()|[0.00]()|
+|Train|[0.00]()|[0.00]()|[0.00]()|[0.00]()|
+
 # Cite
 
 To Be Done
