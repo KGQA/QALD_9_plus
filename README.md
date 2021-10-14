@@ -21,7 +21,7 @@ This enables the dataset users to address also the paraphrasing task.
 
 # Evaluation
 
-We used [GERBIL]() system for the evaluation of the dataset. For the comparison, Macro F1 metric was used. The detailed information for the experiments is available at the individual link (click the value in the cells).
+We used [GERBIL]() system for the evaluation of the dataset.The detailed information for the experiments is available at the individual link (click the value in the cells).
 
 ## Wikidata
 
