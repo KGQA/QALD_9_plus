@@ -1,0 +1,60 @@
+{
+    "questions": [
+        {
+            "id": "99",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "What is the time zone of Salt Lake City?"
+                },
+                {
+                    "language": "de",
+                    "string": "In welcher Zeitzone liegt Salt Lake City?"
+                },
+                {
+                    "language": "de",
+                    "string": "Was ist die Zeitzone von Salt Lake City?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какой часовой пояс в Солт-Лейк-Сити"
+                },
+                {
+                    "language": "ru",
+                    "string": "В каком часов поясе расположен Солт-Лейк-Сити?"
+                },
+                {
+                    "language": "ua",
+                    "string": "Який часовий пояс у Солт-Лейк Сіті?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokia Solt Leik Sičio laiko zona?"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX res: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT DISTINCT ?uri WHERE { res:Salt_Lake_City <http://dbpedia.org/ontology/timeZone> ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Mountain_Time_Zone"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

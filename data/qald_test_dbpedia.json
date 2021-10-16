@@ -44,8 +44,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -102,8 +101,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -230,8 +228,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -292,8 +289,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -358,8 +354,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -413,8 +408,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "c": {
@@ -476,8 +470,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -550,8 +543,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "string": {
@@ -657,8 +649,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "capacity": {
@@ -720,8 +711,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -782,8 +772,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -858,8 +847,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -1176,8 +1164,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -1752,8 +1739,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "string": {
@@ -1807,8 +1793,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "string": {
@@ -1854,8 +1839,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -1901,8 +1885,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -2333,8 +2316,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -2383,8 +2365,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "country": {
@@ -2437,8 +2418,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "callret-0": {
@@ -2492,8 +2472,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -2535,8 +2514,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -2578,8 +2556,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -12890,8 +12867,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "s": {
@@ -12941,8 +12917,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -12991,8 +12966,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "String": {
@@ -13042,8 +13016,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -13081,8 +13054,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -13124,8 +13096,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -13174,8 +13145,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -13224,8 +13194,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -13279,8 +13248,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -13395,8 +13363,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -13442,8 +13409,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -13504,8 +13470,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -13734,8 +13699,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -13802,8 +13766,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "nm": {
@@ -13865,8 +13828,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -13929,8 +13891,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -13984,8 +13945,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -14035,8 +13995,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "string": {
@@ -14093,8 +14052,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "c": {
@@ -14152,8 +14110,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -14203,8 +14160,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -14395,8 +14351,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "n": {
@@ -14454,8 +14409,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "label": {
@@ -14509,8 +14463,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -14556,8 +14509,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -14614,8 +14566,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -14665,8 +14616,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "years": {
@@ -14724,8 +14674,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "callret-0": {
@@ -14783,8 +14732,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -16762,8 +16710,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -16816,8 +16763,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "Counter": {
@@ -16911,8 +16857,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "s": {
@@ -17053,8 +16998,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -17117,8 +17061,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -17193,8 +17136,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "num": {
@@ -17248,8 +17190,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -17299,8 +17240,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "c": {
@@ -17350,8 +17290,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -17393,8 +17332,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -17436,8 +17374,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -17483,8 +17420,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -18537,8 +18473,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "date": {
@@ -18592,8 +18527,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -18646,8 +18580,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -18700,8 +18633,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -18976,8 +18908,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "s": {
@@ -19084,8 +19015,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -19558,8 +19488,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -19648,8 +19577,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -19816,8 +19744,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -20112,8 +20039,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "callret-0": {
@@ -20167,8 +20093,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -20227,8 +20152,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -20281,8 +20205,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -20332,8 +20255,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -20704,8 +20626,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -20974,8 +20895,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "n": {
@@ -21041,8 +20961,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -21100,8 +21019,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -21159,8 +21077,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -21275,8 +21192,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -21408,8 +21324,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -21630,8 +21545,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -21689,8 +21603,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -21748,8 +21661,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -22534,8 +22446,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -22581,8 +22492,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "rel": {
@@ -22636,8 +22546,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -22683,8 +22592,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -22726,8 +22634,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -22782,8 +22689,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -22836,8 +22742,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -22909,8 +22814,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "n": {
@@ -22964,8 +22868,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -23011,8 +22914,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -23083,8 +22985,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -23337,8 +23238,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -23399,8 +23299,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -23509,8 +23408,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "callret-0": {
@@ -23572,8 +23470,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -23623,8 +23520,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -23689,8 +23585,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -23744,8 +23639,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -23799,8 +23693,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "n": {
@@ -23850,8 +23743,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -23912,8 +23804,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "callret-0": {
@@ -23971,8 +23862,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -24029,8 +23919,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -24080,8 +23969,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "d": {
@@ -24135,8 +24023,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -26431,8 +26318,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -26603,8 +26489,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "diameter": {
@@ -26706,8 +26591,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -26753,8 +26637,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "callret-0": {
@@ -26804,8 +26687,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -26901,8 +26783,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "string": {
@@ -26962,8 +26843,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -27202,8 +27082,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -27262,8 +27141,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -27305,8 +27183,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "n": {
@@ -27360,8 +27237,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -27462,8 +27338,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -27516,8 +27391,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -27576,8 +27450,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "callret-0": {
@@ -27631,8 +27504,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -27670,8 +27542,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -27713,8 +27584,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "Novelist": {
@@ -27763,8 +27633,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "studio": {
@@ -27814,8 +27683,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "company": {
@@ -27890,8 +27758,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -27933,8 +27800,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -27989,8 +27855,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -28039,8 +27904,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -28095,8 +27959,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "count": {
@@ -28146,8 +28009,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": []
                     }
                 }
@@ -28185,8 +28047,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -28615,8 +28476,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "bridge": {
@@ -29949,8 +29809,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "c": {
@@ -30000,8 +29859,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -30056,8 +29914,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -30106,8 +29963,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
@@ -30156,8 +30012,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "web": {
@@ -30380,8 +30235,7 @@
                         ]
                     },
                     "results": {
-                        "distinct": false,
-                        "ordered": true,
+
                         "bindings": [
                             {
                                 "uri": {
