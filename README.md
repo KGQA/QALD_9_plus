@@ -21,14 +21,39 @@ This enables the dataset users to address also the paraphrasing task.
 
 # Evaluation
 
-We used [GERBIL]() system for the evaluation of the dataset. For the comparison, Macro F1 metric was used. The detailed information for the experiments is available at the individual link (click the value in the cells).
+We used [GERBIL]() system for the evaluation of the dataset.The detailed information for the experiments is available at the individual link (click the value in the cells).
 
 ## Wikidata
+
 ### QAnswer
+
 |     | en | de | ru | fr |
 |-----|----|----|----|----|
-|Test |[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010001)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010002)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010003)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010004)|
-|Train|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010007)|[0.00](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010009)|[]()|[]()|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010002)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010003)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010004)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010007)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080002)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080003)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080004)|
+
+### DeepPavlov
+
+|     | en | ru |
+|-----|----|----|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080010)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110090000)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110090001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110000)|
+
+### Platypus
+
+|     | en | fr |
+|-----|----|----|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110004)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110005)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110006)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110120000)|
+
+## DBpedia
+
+### QAnswer
+
+|     | en | de | ru | fr |
+|-----|----|----|----|----|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110120004)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110120005)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110130000)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110130001)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110130002)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110140000)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110150000)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110150001)|
 
 # Cite
 
