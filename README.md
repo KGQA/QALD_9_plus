@@ -10,7 +10,7 @@ As the questions' translations were provided by native speakers, they are consid
 
 # Dataset Statistics
 
-|       | en  | de  | ru   | lt | uk  | be | arm | fr | DBpedia | Wikidata | # questions |
+|       | en  | de  | ru   | lt | uk  | be | hy | fr | DBpedia | Wikidata | # questions |
 |-------|-----|-----|------|----|-----|----|-----|----|---------|----------|-------------|
 | Train | 408 | 545 | 1294 | 63 | 262 | 80 |  80 | 80 |     408 |      373 |         408 |
 | Test  | 150 | 177 |  378 | 28 | 170 | 12 |  20 | 20 |     150 |      137 |         150 |
