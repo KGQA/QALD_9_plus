@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:owl2="http://www.w3.org/2006/12/owl2#"
+>
+  <dcat:Dataset rdf:about="https://figshare.com/articles/dataset/QALD-9_/16864273">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-10-24T00:00:00.000000</dct:issued>
+    <dct:identifier>qald-9+</dct:identifier>
+    <dct:creator>
+        <foaf:Person rdf:nodeID="https://github.com/Perevalov">
+        </foaf:Person>
+        <foaf:Person rdf:nodeID="https://github.com/anbo-de">
+            <owl:sameAs rdf:resource="https://www.wikidata.org/wiki/Q102447941"/>
+        </foaf:Person>
+        <foaf:Person rdf:nodeID="https://github.com/D063520">
+            <owl:sameAs rdf:resource="https://www.wikidata.org/wiki/Q47515110"/>
+        </foaf:Person>
+    </dct:creator>
+    <dct:title>improved and extended 9th Question Answering over Linked Data (QALD-9+)</dct:title>
+    <dct:description><![CDATA[<p>The ability to have the same experience for different user groups (\ie accessibility) is one of the most important characteristics of web-based systems.
+        The same is true for Knowledge Graph Question Answering (KGQA) systems.
+        While following our research agenda on the multilingual aspect of accessibility of KGQA systems, we identified several ongoing challenges.
+        One of them is the lack of multilingual KGQA datasets.
+        </p><p>
+        In this work, we extend one of the most popular KGQA datasets -- QALD-9 by introducing diverse and unbiased questions' translations to 7 languages provided by native speakers, and transferring the SPARQL queries of QALD-9 from DBpedia to Wikidata, s.t., the usability and relevance of the dataset is strongly increased.
+        We call the extended dataset QALDplus and made it available online.</p>]]></dct:description>
+    <dcat:keyword>Question Answering</dcat:keyword>
+    <dcat:keyword>Linked Data</dcat:keyword>
+    <dcat:keyword>Multilingual</dcat:keyword>
+    <dcat:keyword>Natural-language Questions</dcat:keyword>
+  </dcat:Dataset>
+</rdf:RDF>
