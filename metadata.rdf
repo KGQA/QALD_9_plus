@@ -21,6 +21,8 @@
         <foaf:Person rdf:nodeID="https://github.com/D063520">
             <owl:sameAs rdf:resource="https://www.wikidata.org/wiki/Q47515110"/>
         </foaf:Person>
+        <foaf:Person rdf:nodeID="https://github.com/RicardoUsbeck">
+        </foaf:Person>
     </dct:creator>
     <dct:title>improved and extended 9th Question Answering over Linked Data (QALD-9+)</dct:title>
     <dct:description><![CDATA[<p>The ability to have the same experience for different user groups (\ie accessibility) is one of the most important characteristics of web-based systems.
