@@ -13830,6 +13830,10 @@
                 {
                     "language": "lt",
                     "string": "Išvardykite visus rašytojus, gavusius Nobelio literatūros premiją."
+                },
+                {
+                    "language": "fr",
+                    "string": "Quels sont tous les écrivains Prix Nobel de Littérature ?"
                 }
             ],
             "query": {
@@ -17251,6 +17255,10 @@
                 {
                     "language": "ba",
                     "string": "Линкольн президент булып кемдең ҡатыны?"
+                },
+                {
+                    "language": "fr",
+                    "string": "Qui était l'épouse du président américain Lincoln ?"
                 }
             ],
             "query": {
@@ -20506,6 +20514,10 @@
                 {
                     "language": "ba",
                     "string": "Том Круз булған фильмдарҙы һанап үтегеҙ. "
+                },
+                {
+                    "language": "fr",
+                    "string": "Donnez-moi tous les films de Tom Cruise."
                 }
             ],
             "query": {
@@ -23858,6 +23870,10 @@
                 {
                     "language": "ba",
                     "string": "Ramones группаһының бөтә Б яҡтарын һанап бирегеҙ."
+                },
+                {
+                    "language": "fr",
+                    "string": "Donnez-moi toutes les faces B des Ramones."
                 }
             ],
             "query": {
@@ -24814,6 +24830,10 @@
                 {
                     "language": "ba",
                     "string": "Авраам Линкольн ҡайҙа үлгән?"
+                },
+                {
+                    "language": "fr",
+                    "string": "Où est décédé Abraham Lincoln ?"
                 }
             ],
             "query": {
@@ -27666,6 +27686,10 @@
                 {
                     "language": "ba",
                     "string": "Обаманын катынынын исеме Мишель?"
+                },
+                {
+                    "language": "fr",
+                    "string": "L'épouse du président Obama s'appelle-t-elle Michelle ?"
                 }
             ],
             "query": {
