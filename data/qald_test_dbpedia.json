@@ -30,6 +30,18 @@
                 {
                     "language": "lt",
                     "string": "Kokia Solt Leik Sičio laiko zona?"
+                },
+                {
+                    "language": "be",
+                    "string": "Які гадзінны пояс у Солт-Лэйк-Сіці"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokia laiko juosta yra Solt Leik Sityjes"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндей вакыт поясы Солт-Лейк-Ситила"
                 }
             ],
             "query": {
@@ -44,7 +56,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -77,16 +88,20 @@
                     "string": "Кто убил Цезаря"
                 },
                 {
-                    "language": "ru",
-                    "string": "Кто убил Цезаря?"
-                },
-                {
                     "language": "uk",
                     "string": "Хто вбив Цезаря?"
                 },
                 {
                     "language": "lt",
                     "string": "Kas nužudė Cezarį?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто забіў Цэзара"
+                },
+                {
+                    "language": "ba",
+                    "string": "Кем Цезарьзы ултергэн?"
                 }
             ],
             "query": {
@@ -101,7 +116,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -214,6 +228,22 @@
                 {
                     "language": "uk",
                     "string": "Яка найвища гора у Німеччині?"
+                },
+                {
+                    "language": "be",
+                    "string": "Самая высокая гара ў Германіі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Pats Aukščiausias kalnas Vokietijoje?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Aukščiausias kalnas Vokietijoje?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Германияла иң бейек тау?"
                 }
             ],
             "query": {
@@ -228,7 +258,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -275,6 +304,14 @@
                 {
                     "language": "uk",
                     "string": "Які американські президенти були на посаді під час війни у В'єтнамі?"
+                },
+                {
+                    "language": "be",
+                    "string": "Амерыканскі прэзідэнт, які быў падчас вайны ў В'етнаме?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндей американский президент икенсе хугыш булган вакытта Вьетнамда?"
                 }
             ],
             "query": {
@@ -289,7 +326,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -340,6 +376,22 @@
                 {
                     "language": "uk",
                     "string": "Губернатором якого американського штату був Бутч Оттер?"
+                },
+                {
+                    "language": "be",
+                    "string": "Губернатарам якога штата з'яўляецца Бутч Оттэр?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurios valstijos gubernatorius yra Butchas Otteris?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Штат губернаторы, бусины оттирать ниндәй була?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Штат губернаторы, Бутч Оттер ниндәй була?"
                 }
             ],
             "query": {
@@ -354,7 +406,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -394,6 +445,22 @@
                 {
                     "language": "uk",
                     "string": "Скільки золотих медалей виграв Майкл Фелпс на Олімпіаді 2008 року?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі залатых медалёў выйграў Міхаэль Фелпс на Алімпійскіх гульнях у 2008 годзе?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek aukso medalių Michaelas Phelpsas iškovojo 2008 m. olimpinėse žaidynėse?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Михаэль олимпия уйындарында алтын миҙал яулаусы 2008 йыл фелпс ни?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Михаэль Фелпс олимпия уйындарында алтын миҙал 2008 йылда ниндәй яулаусы?"
                 }
             ],
             "query": {
@@ -408,7 +475,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "c": {
@@ -456,6 +522,18 @@
                 {
                     "language": "uk",
                     "string": "Які художники народилися того ж самого дня, що і Рейчел Стівенс?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія акцёры нарадзіліся ў адзiн дзень з Рэйчэл Стывенс?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurie aktoriai gimė tą pačią dieną kaip Rachel Stevens?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Тыуған көнөң менән рейчел стивенс актер ҙа ниндәй?"
                 }
             ],
             "query": {
@@ -470,7 +548,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -529,6 +606,22 @@
                 {
                     "language": "uk",
                     "string": "Яка професія Френка Герберта?"
+                },
+                {
+                    "language": "be",
+                    "string": "Прафесія Фрэнка Герберта? "
+                },
+                {
+                    "language": "lt",
+                    "string": "Franko Herberto profesija?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Фрэнк Һөнәри Герберт?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Герберт Френк професия ниндәй?"
                 }
             ],
             "query": {
@@ -543,7 +636,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "string": {
@@ -583,6 +675,18 @@
                 {
                     "language": "uk",
                     "string": "Чи тайко є різновидом японського музичного інструменту?"
+                },
+                {
+                    "language": "be",
+                    "string": "Ці з'яўляецца Тайко японскім музычным інструментам?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Taiko yra japonų muzikos instrumentas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Тайко япон музыка ҡоралы булып бармы?"
                 }
             ],
             "query": {
@@ -631,6 +735,18 @@
                 {
                     "language": "uk",
                     "string": "Скільки вміщує домашній стадіон футбольного клубу Порту?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі месцаў на дамашнім стадыёне футбольнага клуба Порту?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek vietų yra FC Porto stadione?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Порт стадионында футбол клубы өй урындар күпме?"
                 }
             ],
             "query": {
@@ -645,7 +761,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "capacity": {
@@ -693,6 +808,14 @@
                 {
                     "language": "uk",
                     "string": "Яку бонусну програму мають більшість авіакомпаній?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якой праграме для пасажыраў, якія часта лятаюць, больш за ўсё авіякампаній?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurioje nuolatinių skrydžių programoje yra daugiausia oro linijų?"
                 }
             ],
             "query": {
@@ -707,7 +830,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -754,6 +876,10 @@
                 {
                     "language": "uk",
                     "string": "Які європейські країни мають конституційну монархію?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якой еўрапейскай краіне канстытуцыйная манархія?"
                 }
             ],
             "query": {
@@ -768,7 +894,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -819,16 +944,36 @@
                     "string": "В каких странах есть, имеющие более двух пещер?"
                 },
                 {
-                    "language": "ru",
-                    "string": "В каких странах есть места с более, чем двумя пещерами?"
-                },
-                {
                     "language": "uk",
                     "string": "Які країни мають місця з більш ніж двома печерами?"
                 },
                 {
                     "language": "be",
                     "string": "У якiх краiнах ёсць месцы з больш чым дзвюма пячорамi?"
+                },
+                {
+                    "language": "uk",
+                    "string": "В яких країнах є місця з більш ніж двома печерами "
+                },
+                {
+                    "language": "uk",
+                    "string": "У яких країнах є місця з більш ніж двома печерами"
+                },
+                {
+                    "language": "be",
+                    "string": "У якіх краінах ёсць месцы з больш чым двума пячорамі"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuriose šalyse yra daugiau nei dviejų urvų?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuriose šalyse yra vietų, kuriose yra daugiau nei du urvai"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ҡайһы илдәрҙә ике мәмерйәнән дә күберәк урындар бар?"
                 }
             ],
             "query": {
@@ -843,7 +988,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -1146,6 +1290,10 @@
                 {
                     "language": "be",
                     "string": "Якiя аэрапорты знаходзяцца ў Калiфорнii, ЗША?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokie oro uostai yra JAV Kalifornijos valstijoje?"
                 }
             ],
             "query": {
@@ -1160,7 +1308,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -1721,6 +1868,14 @@
                 {
                     "language": "uk",
                     "string": "Як ще називають Сан-Франциско?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія прозвiшча ў Сан-Францыска?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokie yra San Francisko slapyvardžiai?"
                 }
             ],
             "query": {
@@ -1735,7 +1890,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "string": {
@@ -1775,6 +1929,14 @@
                 {
                     "language": "uk",
                     "string": "Яке ім'я мала Ангела Меркель при народженні?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якое імя было дадзена Ангеле Меркель пры нараджэнні?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Koks vardas Angela Merkel buvo suteikta gimus?"
                 }
             ],
             "query": {
@@ -1789,7 +1951,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "string": {
@@ -1821,6 +1982,18 @@
                 {
                     "language": "uk",
                     "string": "Хто є мером Берліну?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто мэр Берліна?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas yra Berlyno meras?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Берлин ҡалаһының мэры кем?"
                 }
             ],
             "query": {
@@ -1835,7 +2008,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -1867,6 +2039,14 @@
                 {
                     "language": "uk",
                     "string": "Яки країни ЄС прийняли євро?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія краіны Еўрапейскага Саюза сталі выкарыстоўваць Еўра?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurios Europos Sąjungos šalys pradėjo naudoti eurą?"
                 }
             ],
             "query": {
@@ -1881,7 +2061,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -2298,6 +2477,10 @@
                 {
                     "language": "uk",
                     "string": "Яке програмне забезпечення опубліковало Mean Hamster Software?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokią programinę įrangą išleido „Mean Hamster Software“?"
                 }
             ],
             "query": {
@@ -2312,7 +2495,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -2347,6 +2529,18 @@
                 {
                     "language": "uk",
                     "string": "У якій країні народився Білл Гейтс?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якой краіне нарадзіўся Біл Гейтс?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokioje šalyje gimė Billas Gatesas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Билл гейтс тыуған илде ниндәй?"
                 }
             ],
             "query": {
@@ -2361,7 +2555,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "country": {
@@ -2400,6 +2593,14 @@
                 {
                     "language": "uk",
                     "string": "Скількі внуків мав Жак-Ів Кусто?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі ўнукаў было ў Жака Іва Кусто?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek anūkų turėjo Jacques'as Yves'as Kusto?"
                 }
             ],
             "query": {
@@ -2414,7 +2615,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "callret-0": {
@@ -2450,6 +2650,14 @@
                 {
                     "language": "uk",
                     "string": "Перерахуйте мені усіх професійних скейтбордистів зі Швеції."
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце ўсіх прафесійных скейтбардыстаў Швецыі."
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visus profesionalius riedlentininkus Švedijoje."
                 }
             ],
             "query": {
@@ -2464,7 +2672,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -2492,6 +2699,14 @@
                 {
                     "language": "uk",
                     "string": "Хто з монархів Сполученого Королівства мав шлюб з німецькими?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто з манархаў Злучанага Каралеўства быў жанаты на немцы?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuris iš Jungtinės Karalystės monarchų buvo vedęs vokietę?"
                 }
             ],
             "query": {
@@ -2506,7 +2721,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -2534,6 +2748,14 @@
                 {
                     "language": "uk",
                     "string": "Перелічіть усі аргентинські фільми."
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце аргентынскія фільмы"
+                },
+                {
+                    "language": "lt",
+                    "string": "Argentinos filmų sąrašas"
                 }
             ],
             "query": {
@@ -2548,7 +2770,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -12845,6 +13066,26 @@
                 {
                     "language": "uk",
                     "string": "Як помер Майкл Джексон?"
+                },
+                {
+                    "language": "be",
+                    "string": "Як памёр Майкл Джэксан?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kaip mirė Michaelas Jacksonas?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kaip mirė Maiklas Džeksonas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Майкл джексон нисек вафат була?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Майкл Джек он нисек улгэн? "
                 }
             ],
             "query": {
@@ -12859,7 +13100,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "s": {
@@ -12895,6 +13135,18 @@
                 {
                     "language": "uk",
                     "string": "Який штат увійшов до складу США останнім?"
+                },
+                {
+                    "language": "be",
+                    "string": "Які са штатаў ЗША быў утвораны пазней за ўсіх?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuri iš JAV valstijų susikūrė vėliau už visas kitas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Боьэхенэн дэ хонорак ниндэй США штаты ойошторолган? "
                 }
             ],
             "query": {
@@ -12909,7 +13161,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -12938,12 +13189,28 @@
                     "string": "К какому классу относятся многоножки?"
                 },
                 {
-                    "language": "ru",
-                    "string": "К какому классу относятся Многоножки?"
-                },
-                {
                     "language": "uk",
                     "string": "До якого класу відносяться Millepede?"
+                },
+                {
+                    "language": "be",
+                    "string": "Да якога класа ставяцца шматножкі?"
+                },
+                {
+                    "language": "be",
+                    "string": "Да якога класа адносяцца шматножкі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokios klasės yra šimtakojai?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokiai klasei priklauso šimtakojai?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Купаяклылыр ниндэй класка инэ? "
                 }
             ],
             "query": {
@@ -12958,7 +13225,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "String": {
@@ -12994,6 +13260,18 @@
                 {
                     "language": "uk",
                     "string": "Покажіть мені домашню сторінку \"Форбс\"."
+                },
+                {
+                    "language": "be",
+                    "string": "Адрас хатняй старонкі выдання Форбс?"
+                },
+                {
+                    "language": "lt",
+                    "string": "„Forbes“ pagrindinio puslapio adresas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Форбс нэшриэтенен ой бите адрес? "
                 }
             ],
             "query": {
@@ -13008,7 +13286,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -13032,6 +13309,18 @@
                 {
                     "language": "uk",
                     "string": "Хто чоловік Аманди Палмер?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas yra Amandos Palmer vyras?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Аманда пали ире кем булыр?"
+                },
+                {
+                    "language": "ba",
+                    "string": " А анда Палмерзын Ире кем? "
                 }
             ],
             "query": {
@@ -13046,7 +13335,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -13074,6 +13362,26 @@
                 {
                     "language": "uk",
                     "string": "Хто намалював картину \"Христос під час шторму на морі Галілейському\"?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто з'яўляецца мастаком карціны \"Бура на галілейскім моры\"?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas yra paveikslo „Audra Galilėjos jūroje“ menininkas?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas yra paveikslo 'Audra Galilėjo jūroje\" autorius?"
+                },
+                {
+                    "language": "ba",
+                    "string": "- Был картинаның рәссамы кем \"н галилейский диңгеҙ бүреләре\"?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Галилей дингезендэге дауыл картинахынын художницы кем? "
                 }
             ],
             "query": {
@@ -13088,7 +13396,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -13123,6 +13430,22 @@
                 {
                     "language": "uk",
                     "string": "Яка найвища точка Каракоруму?"
+                },
+                {
+                    "language": "be",
+                    "string": "Найвышэйшы пункт Каракоруму?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Aukščiausias Karakorumo taškas?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Auksčiausias Karokorumo taškas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Карокаруманын ин бейек ноктэхе? "
                 }
             ],
             "query": {
@@ -13137,7 +13460,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -13172,6 +13494,18 @@
                 {
                     "language": "uk",
                     "string": "Коли Фінляндія приєдналася до ЄС?"
+                },
+                {
+                    "language": "be",
+                    "string": "Калі Фінляндыя далучылася да Еўрасаюзу? "
+                },
+                {
+                    "language": "lt",
+                    "string": "Kada Suomija prisijungė prie Europos Sąjungos?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Финляндия касан Евросоюза ккшылды? "
                 }
             ],
             "query": {
@@ -13186,7 +13520,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -13226,6 +13559,18 @@
                 {
                     "language": "uk",
                     "string": "Які актори грають у \"Теорії великого вибуху\"?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія акцёры гулялі ў тэорыі Вялікага Выбуху?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokie aktoriai vaidino Didžiojo sprogimo teorijoje?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Зур шартлау теорияхында ниндэй актерзар уцнаны? "
                 }
             ],
             "query": {
@@ -13240,7 +13585,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -13341,6 +13685,22 @@
                 {
                     "language": "uk",
                     "string": "Який інформатик виграв Оскар?"
+                },
+                {
+                    "language": "be",
+                    "string": "Які вучоны ў галіне інфармацыйных тэхналогій выйграў оскар?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuris informacinių technologijų mokslininkas laimėjo „Oskarą“?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Koks mokslininkas iš informacinių technologijų srities laimėjo oskarą?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндэй укымышлы кеше хэбэрлэр технология олкэхендэ Оскар алды? "
                 }
             ],
             "query": {
@@ -13355,7 +13715,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -13387,6 +13746,18 @@
                 {
                     "language": "uk",
                     "string": "Хто написав \"Гаррі Поттера\"?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто напісаў Гары Потэра?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas parašė Harį Poterį?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Гарри Поттер кем яҙған?"
                 }
             ],
             "query": {
@@ -13401,7 +13772,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -13448,6 +13818,18 @@
                 {
                     "language": "uk",
                     "string": "Перерахуйте усіх письменників, які виграли Нобелевську премію з літератури"
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце ўсіх пісьменнікаў, якія атрымалі Нобелеўскую прэмію па літаратуры."
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardinkite visus rašytojus, gavusius literatūros Nobelio premiją."
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visus rašytojus, gavusius Nobelio literatūros premiją."
                 }
             ],
             "query": {
@@ -13462,7 +13844,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -13677,6 +14058,14 @@
                 {
                     "language": "uk",
                     "string": "Перерахуйте усіх акторів, які грали у \"Lovesick\""
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце ўсіх англійскіх акцёраў, якія здымаліся ў \"Смуце ад кахання\""
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visus anglų aktorius, vaidinusius filme Meilės ilgesys"
                 }
             ],
             "query": {
@@ -13691,7 +14080,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -13744,6 +14132,18 @@
                 {
                     "language": "uk",
                     "string": "Як ще називають місто Багдад?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якое яшчэ называюць Багдад?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kaip dar yra vadinamas Bagdadas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Багладты тагы нисек атайзар"
                 }
             ],
             "query": {
@@ -13758,7 +14158,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "nm": {
@@ -13806,6 +14205,18 @@
                 {
                     "language": "uk",
                     "string": "У якому місті народився президент Чорногорії?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якім горадзе нарадзіўся прэзідэнт Мантэнегра?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokiam mieste gimė Juodkalnijos prezidentas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Президент Монтенегро кайхы калала тыуган"
                 }
             ],
             "query": {
@@ -13820,7 +14231,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -13869,6 +14279,26 @@
                 {
                     "language": "uk",
                     "string": "Який штат Америки має найбільшу густоту населення?"
+                },
+                {
+                    "language": "be",
+                    "string": "Які штат ЗША мае самую высокую шчыльнасць насельніцтва?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokioje JAV valstijoje yra didžiausias gyventojų tankumas?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurioje JAV valstijoje gyventojų tankumas didžiausias?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Аҡш штаттары иң юғары халыҡ тығыҙлығы ниндәй була?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ин куп туплпюанган халыклы США да ниндэй штат"
                 }
             ],
             "query": {
@@ -13883,7 +14313,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -13923,6 +14352,22 @@
                 {
                     "language": "uk",
                     "string": "Яка найдовша річка Китаю?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якая самая доўгая рака Кітая?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokia yra pati ilgiausia Kinijos upė?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokia yra ilgiausia upė Kinijoje"
+                },
+                {
+                    "language": "ba",
+                    "string": "Кытай за ин озон йылга ниндэй"
                 }
             ],
             "query": {
@@ -13937,7 +14382,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -13973,6 +14417,18 @@
                 {
                     "language": "uk",
                     "string": "Який телефонний код Берліну?"
+                },
+                {
+                    "language": "be",
+                    "string": "Які код горада ў Берліна?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Koks yra Berlyno miesto kodas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Берлин калахы нын коды ниндэй"
                 }
             ],
             "query": {
@@ -13987,7 +14443,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "string": {
@@ -14030,6 +14485,22 @@
                 {
                     "language": "lt",
                     "string": "Kiek mokslininkų baigė gebenių lygos universitetą?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі навукоўцаў скончылі універсітэт Лігі плюшчу"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek mokslininkų yra baigę Gebenės lygos universitetą?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek mokslininkų baigė Ivy League universitetą"
+                },
+                {
+                    "language": "ba",
+                    "string": "Лиги плюща университеты нисэ укымышлы кеше тамамлаган"
                 }
             ],
             "query": {
@@ -14044,7 +14515,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "c": {
@@ -14078,16 +14548,24 @@
                     "string": "Какие профессиональные серферы родились в Австралии"
                 },
                 {
-                    "language": "ru",
-                    "string": "Какие профессиональные серферы родились в Австралии?"
-                },
-                {
                     "language": "uk",
                     "string": "Які професійні серфери народилися в Австралії?"
                 },
                 {
                     "language": "lt",
                     "string": "Kurie profesionalūs banglentininkai gimė Australijoje?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія прафесійныя серферы нарадзіліся ў Аўстраліі"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokie profesionalūs banglentininkai gimė Australijoje?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Австралия ла ниндэй хонэри серферзар туган? "
                 }
             ],
             "query": {
@@ -14102,7 +14580,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -14134,6 +14611,18 @@
                 {
                     "language": "lt",
                     "string": "Pasakyk man visas Nyderlandų politines partijas?"
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце ўсе галандскія партыі"
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visas olandų partijas"
+                },
+                {
+                    "language": "ba",
+                    "string": "Бөтә һанап партия голланд"
                 }
             ],
             "query": {
@@ -14148,7 +14637,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -14315,16 +14803,24 @@
                     "string": "Сколько спутников у Марса"
                 },
                 {
-                    "language": "ru",
-                    "string": "Сколько спутников у Марса?"
-                },
-                {
                     "language": "uk",
                     "string": "Скільки супутників має Марс?"
                 },
                 {
                     "language": "lt",
                     "string": "Kiek mėnulių turi Marsas?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі спадарожнікаў у Марса"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek palydovų turi Marsas"
+                },
+                {
+                    "language": "ba",
+                    "string": "Марс күпме юлдаш булһаң"
                 }
             ],
             "query": {
@@ -14339,7 +14835,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "n": {
@@ -14383,6 +14878,18 @@
                 {
                     "language": "lt",
                     "string": "Koks tikras Betmeno vardas?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якое сапраўднае імя ў Бэтмэна"
+                },
+                {
+                    "language": "lt",
+                    "string": "Koks yra tikrasis Betmeno vardas"
+                },
+                {
+                    "language": "ba",
+                    "string": "Уның ысын исемен, ниндәй Бэтмен"
                 }
             ],
             "query": {
@@ -14397,7 +14904,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "label": {
@@ -14437,6 +14943,10 @@
                 {
                     "language": "lt",
                     "string": "Kuo žinomas Elonas Maskas?"
+                },
+                {
+                    "language": "be",
+                    "string": "Чым знакаміты Ілан Маск"
                 }
             ],
             "query": {
@@ -14451,7 +14961,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -14483,6 +14992,18 @@
                 {
                     "language": "lt",
                     "string": "Kas „WikiLeakso“ autorius?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто стварыў WikiLeaks"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas sukūrė WikiLeaks"
+                },
+                {
+                    "language": "ba",
+                    "string": "Кем булдыра Викиликс"
                 }
             ],
             "query": {
@@ -14497,7 +15018,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -14530,16 +15050,24 @@
                     "string": "Губернатором какого штата США был Шон Парнелл"
                 },
                 {
-                    "language": "ru",
-                    "string": "Губернатором какого штата США был Шон Парнелл?"
-                },
-                {
                     "language": "uk",
                     "string": "Губернатором якого американського штату був Шон Парнелл?"
                 },
                 {
                     "language": "lt",
                     "string": "Kurios JAV valstijos gubernatorius buvo Šonas Parnellis?"
+                },
+                {
+                    "language": "be",
+                    "string": "Губернатарам якога штата ЗША быў Шон Парнэл"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurios JAV valstijos gubernatorius buvo Seanas Parnellas"
+                },
+                {
+                    "language": "ba",
+                    "string": "Аҡш штаты губернаторы ниндәй булырға парнелл шон"
                 }
             ],
             "query": {
@@ -14554,7 +15082,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -14590,6 +15117,22 @@
                 {
                     "language": "lt",
                     "string": "Kiek metų atgal buvo gaminamas „Ford Model T“?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі год выпускаўся Ford Model T"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі гадоў выпускаўся Ford Model T"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek metų buvo gaminamas „Ford Model T“?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Күпме йылда Ford T сығарыу Model"
                 }
             ],
             "query": {
@@ -14604,7 +15147,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "years": {
@@ -14638,16 +15180,24 @@
                     "string": "Когда был застрелен Карло Джулиани"
                 },
                 {
-                    "language": "ru",
-                    "string": "Когда был застрелен Карло Джулиани?"
-                },
-                {
                     "language": "uk",
                     "string": "Коли був застрелений Карло Джуліані?"
                 },
                 {
                     "language": "lt",
                     "string": "Kada buvo nušautas Karlas Džuliani?"
+                },
+                {
+                    "language": "be",
+                    "string": "Калі быў застрэлены Карла Джуліані"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kai Carlo Giuliani buvo nušautas"
+                },
+                {
+                    "language": "ba",
+                    "string": "Карло Джулиани ҡасан атырға була."
                 }
             ],
             "query": {
@@ -14662,7 +15212,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "callret-0": {
@@ -14702,6 +15251,18 @@
                 {
                     "language": "uk",
                     "string": "Перехуйте мені усіх вимерлих тварин."
+                },
+                {
+                    "language": "be",
+                    "string": "Назавіце ўсіх памерлых жывёл."
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardinkite visus išnykusius gyvūnus"
+                },
+                {
+                    "language": "ba",
+                    "string": "Юҡҡа бөтә хайуан тип атала."
                 }
             ],
             "query": {
@@ -14716,7 +15277,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -16679,6 +17239,18 @@
                 {
                     "language": "uk",
                     "string": "Хто був дружиною президента Лінкольна?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто быў жонкай прэзідэнта Лінкальна?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas buvo prezidento Linkolno žmona?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Линкольн президент булып кемдең ҡатыны?"
                 }
             ],
             "query": {
@@ -16694,7 +17266,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -16733,6 +17304,18 @@
                 {
                     "language": "uk",
                     "string": "Скільки нагород мав Бертран Рассел?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі ўзнагарод у Бертрана Расэла?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek apdovanojimų turi Bertrandas Russellas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Бертрана Расселдың нисә миҙалы бар?"
                 }
             ],
             "query": {
@@ -16747,7 +17330,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "Counter": {
@@ -16783,6 +17365,14 @@
                 {
                     "language": "uk",
                     "string": "Чи Памела Андерсон є веганкою?"
+                },
+                {
+                    "language": "be",
+                    "string": "Ці з'яўляецца Памэла Андэрсан веганам?"
+                },
+                {
+                    "language": "be",
+                    "string": "Ці з'яляецца  Памэла Андэрсан веганам? "
                 }
             ],
             "query": {
@@ -16819,6 +17409,18 @@
                 {
                     "language": "uk",
                     "string": "Які космічні зонди були відправлені на орбіту навколо Сонця?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія зонды былі адпраўлены на сонечную арбіту?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokie zondai buvo išsiųsti į saulės orbitą?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokie zondai buvo išsiūsti į saules orbitą?"
                 }
             ],
             "query": {
@@ -16833,7 +17435,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "s": {
@@ -16960,6 +17561,18 @@
                 {
                     "language": "uk",
                     "string": "Населення яких німецьких міст перевищує 250000 мешканців?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія нямецкія гарады маюць насельніцтва больш за 25000 жыхароў?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokie Vokietijos miestai turi daugiau nei 25000 gyventoju?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндәй немец ҡалаларында 25000 кеше йәшәй?"
                 }
             ],
             "query": {
@@ -16974,7 +17587,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -17023,6 +17635,22 @@
                 {
                     "language": "uk",
                     "string": "З ким одружилася донька Роберта Кеннеді?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто муж дачкі Роберта Кенэдзі?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто муж дачкі Роберта Кэнэдзі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas yra Roberto Kennedy dukters vyras?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Роберт Кеннединың ҡыҙың ире кем?"
                 }
             ],
             "query": {
@@ -17037,7 +17665,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -17098,6 +17725,22 @@
                 {
                     "language": "uk",
                     "string": "Скільки студентів навчається в Амстердамському вільному університеті?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі студэнтаў вучыцца ў Свабодным Універсітэце Амстэрдаму?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek studentų studijuoja Amsterdamo laisvajame universitete?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek studentu mokosi Laisvame Amsterdamo Universitete "
+                },
+                {
+                    "language": "ba",
+                    "string": "Амстердам ҡалаһындағы ирекле университет студенттарының күпме уҡыуы?"
                 }
             ],
             "query": {
@@ -17112,7 +17755,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "num": {
@@ -17152,6 +17794,26 @@
                 {
                     "language": "uk",
                     "string": "Які доходи у IBM?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якая выручка ў IBM? "
+                },
+                {
+                    "language": "be",
+                    "string": "Якая выручка ў IBM?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek pajamų turi IBM?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Koks pelnas pas IBM?"
+                },
+                {
+                    "language": "ba",
+                    "string": "IBM ниндәй табыш алына?"
                 }
             ],
             "query": {
@@ -17166,7 +17828,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -17202,6 +17863,18 @@
                 {
                     "language": "uk",
                     "string": "Скільки існує фільмів про Джеймса Бонда?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі ёсць фільмаў пра Джэймса Бонда?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek yra filmu apie Džeimsą Bondą?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Джемс Бонд тураһында күпме кинолар бар?"
                 }
             ],
             "query": {
@@ -17216,7 +17889,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "c": {
@@ -17252,6 +17924,14 @@
                 {
                     "language": "uk",
                     "string": "Хто озвучує Барта Сімпсона?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто агучвае Барта Сімпсана?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas įgarsina Bartą Simpsoną?"
                 }
             ],
             "query": {
@@ -17266,7 +17946,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -17294,6 +17973,22 @@
                 {
                     "language": "uk",
                     "string": "З ким був одружений Том Генкс?"
+                },
+                {
+                    "language": "be",
+                    "string": "На кім ажаніўся Том Хэнкс?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Su kuo buvo vedęs Tomas Hanksas?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Ką buvo vędes Tomas Henksas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Том Хэнксты ҡатыны кем?"
                 }
             ],
             "query": {
@@ -17308,7 +18003,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -17336,6 +18030,18 @@
                 {
                     "language": "uk",
                     "string": "Через які країни протікає Єнісей?"
+                },
+                {
+                    "language": "be",
+                    "string": "Праз якія краіны працякае Енісей?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Per kokias šalis teka Jenisejus?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндәй илдә Йәнәсәй аша аға?"
                 }
             ],
             "query": {
@@ -17350,7 +18056,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -17382,6 +18087,18 @@
                 {
                     "language": "uk",
                     "string": "Перерахуйте мені усі автомобілі, що виробляються у Німеччині."
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце ўсе маркі аўтамабіляў, производящихся ў Германіі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visas Vokietijoje pagamintų automobilių markes?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Бөтә һанап автомобилдең маркаһын, Германияла етештерелгән?"
                 }
             ],
             "query": {
@@ -17396,7 +18113,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -18435,6 +19151,22 @@
                 {
                     "language": "uk",
                     "string": "Коли помер Майкл Джексон?"
+                },
+                {
+                    "language": "be",
+                    "string": "Калі памёр Майкл Джэксан?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kada mirė Michaelas Jacksonas?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kada mire Maiklas Dzeksonas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Майкл джексон ҡасан вафат була?"
                 }
             ],
             "query": {
@@ -18449,7 +19181,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "date": {
@@ -18489,6 +19220,22 @@
                 {
                     "language": "uk",
                     "string": "Який найбільший вулкан в Африці?"
+                },
+                {
+                    "language": "be",
+                    "string": "Самы высокі вулкан Афрыкі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Aukščiausias ugnikalnis Afrikoje?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Pats auksciausias afrikos vulkanas ?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Африканың иң бейек вулкан?"
                 }
             ],
             "query": {
@@ -18503,7 +19250,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -18542,6 +19288,14 @@
                 {
                     "language": "uk",
                     "string": "Який поет написав найбільшу кількість книжок?"
+                },
+                {
+                    "language": "be",
+                    "string": "Які паэт напісаў найбольшая колькасць кніг?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuris poetas yra parašęs daugiausiai knygų?"
                 }
             ],
             "query": {
@@ -18556,7 +19310,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -18595,6 +19348,14 @@
                 {
                     "language": "uk",
                     "string": "Перерахуйте мені усіх гангстерів, які існували в часи Сухого закону."
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце ўсіх гангстэраў з эпохі сухога закона."
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visus draudimo eros gangsterius."
                 }
             ],
             "query": {
@@ -18609,7 +19370,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -18870,6 +19630,14 @@
                 {
                     "language": "uk",
                     "string": "Перерахуйте мені усі космічні апарати, які полетіли на Марс."
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце ўсе касмічныя караблі, якія здзейснілі палёт на Марс."
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visus erdvėlaivius, kurie skrido į Marsą"
                 }
             ],
             "query": {
@@ -18884,7 +19652,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "s": {
@@ -18973,6 +19740,14 @@
                 {
                     "language": "uk",
                     "string": "Покажіть мені усі чеські фільми."
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце ўсе чэшскія фільмы."
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visus čekų filmus"
                 }
             ],
             "query": {
@@ -18987,7 +19762,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -19446,6 +20220,14 @@
                 {
                     "language": "uk",
                     "string": "Перелічіть усіх тайконавтів."
+                },
+                {
+                    "language": "be",
+                    "string": "Назаві мне ўсіх кітайскіх касманаўтаў."
+                },
+                {
+                    "language": "lt",
+                    "string": "Duok man visus Kinijos astronautus."
                 }
             ],
             "query": {
@@ -19460,7 +20242,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -19535,6 +20316,14 @@
                 {
                     "language": "uk",
                     "string": "Які країни мають понад 10 вулканів?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія краіны маюць больш за дзесяць вулканаў?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuriose šalyse yra daugiau nei dešimt ugnikalnių?"
                 }
             ],
             "query": {
@@ -19549,7 +20338,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -19696,12 +20484,28 @@
                     "string": "Перечислите все фильмы с Томом Крузом"
                 },
                 {
-                    "language": "ru",
-                    "string": "Перечислите все фильмы с Томом Крузом."
+                    "language": "uk",
+                    "string": "Перелічіть все фільми з Томом Крузом."
                 },
                 {
                     "language": "uk",
-                    "string": "Перелічіть все фільми з Томом Крузом."
+                    "string": "Перелічіть усі фільми з Томом Крузом."
+                },
+                {
+                    "language": "be",
+                    "string": "Дай мне ўсе фільмы з удзелам Тома Круза."
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visus filmus su Tomu Cruise'u."
+                },
+                {
+                    "language": "lt",
+                    "string": "Duok man visus Tomo Cruise'o filmus."
+                },
+                {
+                    "language": "ba",
+                    "string": "Том Круз булған фильмдарҙы һанап үтегеҙ. "
                 }
             ],
             "query": {
@@ -19716,7 +20520,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -19997,6 +20800,18 @@
                 {
                     "language": "uk",
                     "string": "Коли помер творець Дракули?"
+                },
+                {
+                    "language": "be",
+                    "string": "Калі памёр аўтар Дракулы?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kada mirė Drakulos autorius?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Автор дракула ҡасан вафат була?"
                 }
             ],
             "query": {
@@ -20011,7 +20826,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "callret-0": {
@@ -20051,6 +20865,18 @@
                 {
                     "language": "uk",
                     "string": "Хто створив англійську Вікіпедію?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто стварыў англамоўную Вікіпедыю?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas sukūrė Vikipediją anglų kalba?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Англоязыктын википедиясын кем уйлап тапкан?"
                 }
             ],
             "query": {
@@ -20065,7 +20891,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -20110,6 +20935,18 @@
                 {
                     "language": "uk",
                     "string": "Перелічіть усіх німецьких канцлерів-жінок."
+                },
+                {
+                    "language": "be",
+                    "string": "Назаві мне ўсіх жанчын канцлераў Германіі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Pasakyk man visas Vokietijos kancleres moteris?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Германия канцлеранын хатын кыздарын айт мина?"
                 }
             ],
             "query": {
@@ -20124,7 +20961,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -20163,6 +20999,14 @@
                 {
                     "language": "uk",
                     "string": "Хто є власником Aldi?"
+                },
+                {
+                    "language": "be",
+                    "string": "Каму належыць Альда?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kam priklauso Aldi?"
                 }
             ],
             "query": {
@@ -20177,7 +21021,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -20213,6 +21056,18 @@
                 {
                     "language": "uk",
                     "string": "Які книги написала Даніела Стіл?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія кнігі былі напісаныя Даніэлай Стыл?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokias knygas parašė Daniela Steele?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндай китаптар язган Даниил Стил?"
                 }
             ],
             "query": {
@@ -20227,7 +21082,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -20584,6 +21438,14 @@
                 {
                     "language": "uk",
                     "string": "На кого вплинув Сократ?"
+                },
+                {
+                    "language": "be",
+                    "string": "На каго аказаў ўплыў Сакрат?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kam padarė įtaką Sokratas?"
                 }
             ],
             "query": {
@@ -20598,7 +21460,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -20853,6 +21714,14 @@
                 {
                     "language": "uk",
                     "string": "Яка глибина озера Хім?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якая глыбіня возера Кимзе?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokio gylio yra Chiemsee ežeras?"
                 }
             ],
             "query": {
@@ -20867,7 +21736,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "n": {
@@ -20919,6 +21787,18 @@
                 {
                     "language": "uk",
                     "string": "Які компанії працюють як у космічній, так і в медичній галузі?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія кампаніі вядуць дзейнасць як у аэракасмічнай галіны, так і ў медыцыне?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurios įmonės veikia tiek aviacijos, tiek medicinos pramonėje?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Аэрокосмический хам медицина олкасен ниндай компаниялар алып бара?"
                 }
             ],
             "query": {
@@ -20933,7 +21813,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -20973,6 +21852,18 @@
                 {
                     "language": "uk",
                     "string": "Які професійні серфери народилися на Філіппінах?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія прафесійныя серферы нарадзіліся на Філіпінах?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurie profesionalūs banglentininkai gimė Filipinuose?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Филлипинда ниндай профессионал йозойселар тыуган?"
                 }
             ],
             "query": {
@@ -20987,7 +21878,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -21031,6 +21921,14 @@
                 {
                     "language": "uk",
                     "string": "Хто були батьками Королеви Вікторії?"
+                },
+                {
+                    "language": "be",
+                    "string": "Бацькі Каралевы Вікторыі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Karalienės Viktorijos tėvai?"
                 }
             ],
             "query": {
@@ -21045,7 +21943,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -21098,6 +21995,22 @@
                 {
                     "language": "uk",
                     "string": "Чи в Сполученних Штатах є якісь замки?"
+                },
+                {
+                    "language": "be",
+                    "string": "Ці ёсць сярэднявечныя замкі ў Злучаных Штатах Амерыкі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Ar Jungtinėse Amerikos Valstijose yra viduramžių pilių?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Америка ҡушма штаттары урта быуаттар замоктары бармы?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Америка Ҡушма Штаттарында урта быуат һарайҙары бармы?"
                 }
             ],
             "query": {
@@ -21138,6 +22051,14 @@
                 {
                     "language": "uk",
                     "string": "Якими мовами розмоляють у Естонії?"
+                },
+                {
+                    "language": "be",
+                    "string": "На якіх мовах размаўляюць у Эстоніі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokiomis kalbomis kalbama Estijoje?"
                 }
             ],
             "query": {
@@ -21152,7 +22073,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -21269,6 +22189,18 @@
                 {
                     "language": "uk",
                     "string": "Перерахуйте усіх птахів, які перебувають під загрозою винищення"
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце ўсе віды птушак на мяжы знікнення?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visas nykstančias paukščių rūšis?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Юғалыу сигендә торған бөтә ҡоштарҙы атап сығығыҙ."
                 }
             ],
             "query": {
@@ -21284,7 +22216,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -21491,6 +22422,18 @@
                 {
                     "language": "uk",
                     "string": "Які країни з'єднані Рейном?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія краіны злучае рака Рэйн?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurias šalis jungia Reino upė?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Рейн йылғаһы ниндәй илдәрҙе тоташтыр?"
                 }
             ],
             "query": {
@@ -21505,7 +22448,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -21545,6 +22487,22 @@
                 {
                     "language": "uk",
                     "string": "Хто був батьком Королеви Єлизавети ІІ?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто быў бацькам Каралевы Елізаветыі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas buvo karalienės Elžbietos II tėvas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Королева Елизавета II атаһы кем булған?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Королева Елизоветаның атаһы кем булған?"
                 }
             ],
             "query": {
@@ -21559,7 +22517,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -21589,10 +22546,6 @@
                     "string": "Выдай мне все химические элементы."
                 },
                 {
-                    "language": "ru",
-                    "string": "Перечислите все химические элементы."
-                },
-                {
                     "language": "hy",
                     "string": "Տվեք ինձ բոլիր քիմիական տարրերը:"
                 },
@@ -21603,6 +22556,22 @@
                 {
                     "language": "uk",
                     "string": "Перерахуйте усі хімічні елементи"
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце ўсе хімічныя элементы?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visus cheminius elementus?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Įvardinkite visus cheminius elementus"
+                },
+                {
+                    "language": "ba",
+                    "string": "Бөтә химик элементтарҙы атап сығығыҙ"
                 }
             ],
             "query": {
@@ -21617,7 +22586,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -22388,6 +23356,22 @@
                 {
                     "language": "uk",
                     "string": "Перерахуйте мені усіх американських президентів за останні 20 років"
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічыце ўсіх амерыканскіх прэзідэнтаў за апошнія 20 гадоў."
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visus Amerikos prezidentus per pastaruosius 20 metų."
+                },
+                {
+                    "language": "lt",
+                    "string": "Įvardinkite visus Amerikos prezidentus per paskutinius 20 metu"
+                },
+                {
+                    "language": "ba",
+                    "string": "Һуңғы 20 йыл эсендәге америка президенттарын һанап сығығыҙ."
                 }
             ],
             "query": {
@@ -22402,7 +23386,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -22434,6 +23417,14 @@
                 {
                     "language": "lt",
                     "string": "Kada filmas „Blogiausias atvejis“ bus rodomas Nyderlandų kino teatruose?"
+                },
+                {
+                    "language": "be",
+                    "string": "Калі фільм \"горшы сцэнар\" выйдзе ў кіно ў Нідэрландах?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kada bus rodomas filmas “Blogiausias svenarijus” kinoteatrose Niderlanduose?"
                 }
             ],
             "query": {
@@ -22448,7 +23439,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "rel": {
@@ -22488,6 +23478,14 @@
                 {
                     "language": "lt",
                     "string": "Su kuo vedė Lance'as Bassas?"
+                },
+                {
+                    "language": "be",
+                    "string": "На кім жанаты Ланс Бас?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ланс Басс кемгә өйләнгән?"
                 }
             ],
             "query": {
@@ -22502,7 +23500,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -22534,6 +23531,14 @@
                 {
                     "language": "lt",
                     "string": "Kuri „TUI Travel“ dukterinė įmonė aptarnauja Glazgą ir Dubliną?"
+                },
+                {
+                    "language": "be",
+                    "string": "Які філіял турфірмы TUI абслугоўвае і Глазга і Дублін?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuris TUI padalinys aptarnauja ir Glazge, ir Dubline?"
                 }
             ],
             "query": {
@@ -22548,7 +23553,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -22576,6 +23580,14 @@
                 {
                     "language": "lt",
                     "string": "Kokiomis kalbomis kalbama Pakistane?"
+                },
+                {
+                    "language": "be",
+                    "string": "На якіх мовах размаўляюць у Пакістане?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Пакистанда ниндәй телдә һөйләшә?"
                 }
             ],
             "query": {
@@ -22590,7 +23602,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -22631,6 +23642,14 @@
                 {
                     "language": "lt",
                     "string": "Kas vedė Billo Clintono dukra?"
+                },
+                {
+                    "language": "be",
+                    "string": "За кім замужам дачка біла Клінтана?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Su kuo ištekėjusi Billo Clintono dukra?"
                 }
             ],
             "query": {
@@ -22645,7 +23664,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -22684,6 +23702,10 @@
                 {
                     "language": "lt",
                     "string": "Kas dalyvavo „Apollo 11“ misijoje?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто быў у складзе місіі Апалон 11?"
                 }
             ],
             "query": {
@@ -22698,7 +23720,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -22746,16 +23767,24 @@
                     "string": "Какова длина волны цвета Индиго?"
                 },
                 {
-                    "language": "ru",
-                    "string": "Какова длина волны цвета индиго?"
-                },
-                {
                     "language": "uk",
                     "string": "Яка довжина хвилі у індиго?"
                 },
                 {
                     "language": "lt",
                     "string": "Koks „Indigo“ bangos ilgis?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якая даўжыня хвалі колеру Індыга?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Koks yra Indigo spalvos bangos ilgis?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндәй төҫкә тулҡын оҙонлоғо Индиго?"
                 }
             ],
             "query": {
@@ -22770,7 +23799,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "n": {
@@ -22810,6 +23838,26 @@
                 {
                     "language": "lt",
                     "string": "Pasakyk man visas visas „Ramones“ B puses."
+                },
+                {
+                    "language": "be",
+                    "string": "Укажыце ўсе б-сайды групы Рамонас"
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visas Ramones grupės b puses."
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardykite visas Ramoneso B puses."
+                },
+                {
+                    "language": "ba",
+                    "string": "Барыһы күрһәтә б.-сайд Рамонес төркөмө."
+                },
+                {
+                    "language": "ba",
+                    "string": "Ramones группаһының бөтә Б яҡтарын һанап бирегеҙ."
                 }
             ],
             "query": {
@@ -22824,7 +23872,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -22856,6 +23903,14 @@
                 {
                     "language": "lt",
                     "string": "Kas buvo vadinamas „Scarface“?"
+                },
+                {
+                    "language": "be",
+                    "string": "Каго звалі \"Тварам са шрамам\"?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Исемең кем \"шам менән Кеше\"?"
                 }
             ],
             "query": {
@@ -22870,7 +23925,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -22923,6 +23977,18 @@
                 {
                     "language": "lt",
                     "string": "Kurios upės teka į Šiaurės jūrą?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія рэкі ўпадаюць у Паўночнае Мора?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokios upės įteka į Šiaurės jūrą?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Төньяҡ диңгеҙгә ҡойоусы йылғалар ниндәй?"
                 }
             ],
             "query": {
@@ -22937,7 +24003,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -23176,6 +24241,14 @@
                 {
                     "language": "uk",
                     "string": "Де знаходиться Форт-Нокс?"
+                },
+                {
+                    "language": "be",
+                    "string": "Дзе знаходзіцца Форт-Нокс?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kur yra Fort Noksas"
                 }
             ],
             "query": {
@@ -23190,7 +24263,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -23237,6 +24309,14 @@
                 {
                     "language": "uk",
                     "string": "Які дочки британських графів померли в тому самому місці, де народилися?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто з дачок брытанскіх графаў памёр там жа, дзе нарадзіўся?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuri iš britų grafų dukterų mirė toje pačioje vietoje, kur gimė?"
                 }
             ],
             "query": {
@@ -23251,7 +24331,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -23346,6 +24425,14 @@
                 {
                     "language": "uk",
                     "string": "Скільки імператорів було у Китаю?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі ў Кітаі было імператараў?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ҡытай императоры ниндәй булды?"
                 }
             ],
             "query": {
@@ -23360,7 +24447,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "callret-0": {
@@ -23408,6 +24494,18 @@
                 {
                     "language": "uk",
                     "string": "Як звуть Черепашок-Ніндзя?"
+                },
+                {
+                    "language": "be",
+                    "string": "Як завуць Чарапашак-Ніндзя?"
+                },
+                {
+                    "language": "be",
+                    "string": "Як клічуць Чарапашак-Ніндзя?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Черепашка-Ниндзя исемең нисек?"
                 }
             ],
             "query": {
@@ -23422,7 +24520,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -23454,6 +24551,14 @@
                 {
                     "language": "uk",
                     "string": "Де починається Пікаділлі?"
+                },
+                {
+                    "language": "be",
+                    "string": "Дзе пачынаецца вуліца Пікадзілі?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Пикадилли урамы ҡайҙа башлана?"
                 }
             ],
             "query": {
@@ -23468,7 +24573,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -23515,6 +24619,14 @@
                 {
                     "language": "uk",
                     "string": "Як називається університет, де навчалася дружина Барака Обами?"
+                },
+                {
+                    "language": "be",
+                    "string": "Як называецца універсітэт, дзе вучылася жонка Абамы?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Университеты тип атала, ҡатыны Обама ҡайҙа уҡырды?"
                 }
             ],
             "query": {
@@ -23529,7 +24641,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -23569,6 +24680,10 @@
                 {
                     "language": "uk",
                     "string": "Коли Парагвай проголосив свою незалежність?"
+                },
+                {
+                    "language": "be",
+                    "string": "Калі была абвешчана незалежнасць Парагвая?"
                 }
             ],
             "query": {
@@ -23583,7 +24698,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -23619,6 +24733,14 @@
                 {
                     "language": "uk",
                     "string": "Який зріст найнижчого активного гравця НБА?"
+                },
+                {
+                    "language": "be",
+                    "string": "Які рост самага маленькага дзеючага гульца NBA?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokio ūgio yra mažiausias aktyvus NBA žaidėjas?"
                 }
             ],
             "query": {
@@ -23633,7 +24755,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "n": {
@@ -23669,6 +24790,30 @@
                 {
                     "language": "uk",
                     "string": "Де помер Авраам Лінкольн?"
+                },
+                {
+                    "language": "be",
+                    "string": "Дзе памёр Абрагам Лінкальн?"
+                },
+                {
+                    "language": "be",
+                    "string": "Дзе памёр Абрагам Лінкальн? "
+                },
+                {
+                    "language": "lt",
+                    "string": "Kur mirė Abraomas Linkolnas?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kur mire Abraomas Linkolnas"
+                },
+                {
+                    "language": "ba",
+                    "string": "Авраам Линкольн ҡайҙа вафат булды?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Авраам Линкольн ҡайҙа үлгән?"
                 }
             ],
             "query": {
@@ -23683,7 +24828,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -23726,6 +24870,18 @@
                 {
                     "language": "uk",
                     "string": "Коли був заснований Jack Wolfskin?"
+                },
+                {
+                    "language": "be",
+                    "string": "Калі была створана кампанія Jack Wolfskin?"
+                },
+                {
+                    "language": "be",
+                    "string": " Калі была створана кампанія Jack Wolfskin?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Компания Jack Wolfskin ҡасан ижад ителгән?"
                 }
             ],
             "query": {
@@ -23740,7 +24896,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "callret-0": {
@@ -23798,7 +24953,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -23841,6 +24995,10 @@
                 {
                     "language": "be",
                     "string": "У якiм годзе быў заснаваны бровар, якi вырабляе Pilsner Urquell?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kada buvo įkurta Pilsner Urquell alaus darykla?"
                 }
             ],
             "query": {
@@ -23855,7 +25013,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -23881,16 +25038,20 @@
                     "string": "Когда произошло Бостонское чаепитие?"
                 },
                 {
-                    "language": "ru",
-                    "string": "Когда произошло \"Бостонское чаепитие\"?"
-                },
-                {
                     "language": "uk",
                     "string": "Коли відбулося Бостонське чаювання?"
                 },
                 {
                     "language": "be",
                     "string": "Калi адбылося Бостанскае чаяванне?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kada prasidėjo Bostono arbatos vakarėlis?"
+                },
+                {
+                    "language": "ba",
+                    "string": "бостон сэй эсеуе кайсан башланган?"
                 }
             ],
             "query": {
@@ -23905,7 +25066,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "d": {
@@ -23945,6 +25105,14 @@
                 {
                     "language": "be",
                     "string": "Якiя жывёлы знаходзяцца пад пагрозай знiкнення?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokių rūšių gyvūnai yra ant išnykimo ribos?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Кайсы хайуандар югалыу кырында?"
                 }
             ],
             "query": {
@@ -23959,7 +25127,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -26240,6 +27407,14 @@
                 {
                     "language": "be",
                     "string": "Якiя палiтыкi былi ў шлюбе з немкамi?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurie politikai turėjo vokiečių kilmės žmonas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "кайсы сэясэтселэрсен катындары герман ягыннан?"
                 }
             ],
             "query": {
@@ -26254,7 +27429,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -26411,6 +27585,14 @@
                 {
                     "language": "be",
                     "string": "Колькi складае дыяметр Зямлi?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Koks yra Žemės skersmuo?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ерзен диаметры купме?"
                 }
             ],
             "query": {
@@ -26425,7 +27607,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "diameter": {
@@ -26459,16 +27640,32 @@
                     "string": "Жену Президента Обамы зовут Мишель?"
                 },
                 {
-                    "language": "ru",
-                    "string": "Жену президента Обамы зовут Мишель?"
-                },
-                {
                     "language": "uk",
                     "string": "Чи дружину президента Обами звуть Мішель?"
                 },
                 {
                     "language": "be",
                     "string": "Жонку прэзiдэнта Абамы клiчуць Мiшэль?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Чи звуть дружину президента Обама Мішель?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Звуть чи дружину президента Обама Мішель?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Ar prezidento Obamos žmona Michelle?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Президенты мишель обама ҡатын исемең бармы?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Обаманын катынынын исеме Мишель?"
                 }
             ],
             "query": {
@@ -26513,6 +27710,14 @@
                 {
                     "language": "be",
                     "string": "Якi штат ЗША мае абрэвiятуру MN?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuri JAV valstija turi sutrumpintą pavadinimą MN?"
+                },
+                {
+                    "language": "ba",
+                    "string": "MN аҡш штаттары ҡыҫҡартылған атамаһы ниндәй булған?"
                 }
             ],
             "query": {
@@ -26527,7 +27732,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -26559,6 +27763,14 @@
                 {
                     "language": "be",
                     "string": "Калi памёр Магамет?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kada mirė Mahometas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Мөхәммәт ҡасан вафат була?"
                 }
             ],
             "query": {
@@ -26573,7 +27785,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "callret-0": {
@@ -26609,6 +27820,14 @@
                 {
                     "language": "be",
                     "string": "Якi склад мае атмасфера Месяца?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Iš ko sudaryta mėnulio atmosfera?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Айзын атмосферахы нэмэнэн тора?"
                 }
             ],
             "query": {
@@ -26623,7 +27842,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -26705,6 +27923,18 @@
                 {
                     "language": "uk",
                     "string": "Хто є губернатором Техасу?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто губернатар Тэхаса?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas yra Teksaso gubernatorius?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Техас губернаторы кем?"
                 }
             ],
             "query": {
@@ -26719,7 +27949,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "string": {
@@ -26765,6 +27994,18 @@
                 {
                     "language": "uk",
                     "string": "Які фільми зняв Куросава?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія фільмы зрэжысаваў Курасава?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokius filmus režisavo Kurosawa?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Куросава кайхы фильмдарзын режиссеры?"
                 }
             ],
             "query": {
@@ -26779,7 +28020,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -27004,6 +28244,18 @@
                 {
                     "language": "uk",
                     "string": "Як називалася знаменита битва в 1836 році в Сан-Антоніо?"
+                },
+                {
+                    "language": "be",
+                    "string": "Як называецца знакамітая бітва 1836 года ў Сан-Антоніа?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kaip vadinasi garsusis 1836 m. mūšis San Antonijuje?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Сае-Антонио янында 1836 йылда булған арнаҡлы яу нисек атала?"
                 }
             ],
             "query": {
@@ -27018,7 +28270,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -27063,6 +28314,18 @@
                 {
                     "language": "uk",
                     "string": "Перерахуйте мені офіційні веб-сайти акторів серіалу \"Всі жінки відьми\"."
+                },
+                {
+                    "language": "be",
+                    "string": "Назаві мне афіцыйны сайт акцёраў тэлевізійнага шоу \"Зачараваныя\""
+                },
+                {
+                    "language": "lt",
+                    "string": "Nurodykite oficialią televizijos laidos „Charmed“ dalyvių svetainę"
+                },
+                {
+                    "language": "ba",
+                    "string": "Мин актер тип аталған телевизион шоу рәсми сайтында \"Зачарованные\""
                 }
             ],
             "query": {
@@ -27077,7 +28340,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -27105,6 +28367,18 @@
                 {
                     "language": "uk",
                     "string": "Скільки калорій містить багет?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі калорый ў багаце?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek kalorijų yra bagete?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Калория багет буламы ни?"
                 }
             ],
             "query": {
@@ -27119,7 +28393,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "n": {
@@ -27159,6 +28432,18 @@
                 {
                     "language": "uk",
                     "string": "Назвіть мені усі бібліотеки, створені до 1400 року."
+                },
+                {
+                    "language": "be",
+                    "string": "Назаві мне ўсе бібліятэкі заснаваныя да 1400 года."
+                },
+                {
+                    "language": "lt",
+                    "string": "Pasakyk man visas bibliotekas, įsteigtas iki 1400 m."
+                },
+                {
+                    "language": "ba",
+                    "string": "Мин 1400 йыл ойоштороуға тиклем бөтә китапханаһы тип атала."
                 }
             ],
             "query": {
@@ -27173,7 +28458,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -27254,12 +28538,20 @@
                     "string": "Перечислите все Фризские острова, принадлежащие Нидерландам"
                 },
                 {
-                    "language": "ru",
-                    "string": "Перечислите все Фризские острова, принадлежащие Нидерландам."
-                },
-                {
                     "language": "uk",
                     "string": "Назвіть мені усі Фризькі острови, які належать до Нідерландів."
+                },
+                {
+                    "language": "be",
+                    "string": "Пералічы мне ўсе Фрызскія астравы, якія належаць Нідэрландам"
+                },
+                {
+                    "language": "lt",
+                    "string": "Pasakyk man visas Nyderlandams priklausančias Fryzų salas"
+                },
+                {
+                    "language": "ba",
+                    "string": "Нидерландыға кергән бөтә Фриз утрауҙарын атап сыҡ миңә "
                 }
             ],
             "query": {
@@ -27274,7 +28566,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -27313,6 +28604,18 @@
                 {
                     "language": "uk",
                     "string": "У якому музеї виставлена картина \"Крик\" Мунка?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якім музеі выстаўлены \"Крык\" Мунка?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuriame muziejuje eksponuojamas Muncho „Klyksmas“?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндәй музейында ҡуйылған \"Крик\" Мунок?"
                 }
             ],
             "query": {
@@ -27327,7 +28630,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -27372,6 +28674,18 @@
                 {
                     "language": "uk",
                     "string": "Коли була заснована компанія \"De Beers\"?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якім годзе заснавана кампанія \"Дэ Бірс\"?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuriais metais buvo įkurtas „De Beers“?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндәй йылда нигеҙ компания \"Де Бирс\"?"
                 }
             ],
             "query": {
@@ -27386,7 +28700,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "callret-0": {
@@ -27426,6 +28739,18 @@
                 {
                     "language": "uk",
                     "string": "Хто став президентом після смерті Джона Ф.Кеннеді?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто стаў прэзідэнтам пасля смерці Джона Франкліна Кэнэдзі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas tapo prezidentu po Johno Franklino Kennedy mirties?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Джон Франклина Кеннединың үлеменән һуң кем президент булған?"
                 }
             ],
             "query": {
@@ -27440,7 +28765,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -27464,6 +28788,18 @@
                 {
                     "language": "uk",
                     "string": "Хто є батьками дружини Хуана Карлоса І?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто з'яўляецца бацькамі жонкі Хуана Карласа I?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas yra Chuano Karloso I žmonos tėvai?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Хуан Карлос I ҡыҙҙың ата-әсәһе кем булған?"
                 }
             ],
             "query": {
@@ -27478,7 +28814,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -27506,6 +28841,18 @@
                 {
                     "language": "uk",
                     "string": "Хто є автором серії романів \"Пісня льоду й полум'я\"?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто з'яўляецца аўтарам твора “Песня лёду і полымя”?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas yra Ledo ir ugnies dainos autorius?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Кем әҫәрҙәр авторы була, «боҙ һәм ялҡын йыры»?"
                 }
             ],
             "query": {
@@ -27520,7 +28867,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "Novelist": {
@@ -27555,6 +28901,18 @@
                 {
                     "language": "uk",
                     "string": "У якій студії The Beatles записали свій перший альбом?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якой студыі Beatles запісалі першы альбом?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kur „The Beatles“ įrašė savo pirmąjį albumą?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Тәүге альбомын яҙҙырып студияһы Beatles ниндәй?"
                 }
             ],
             "query": {
@@ -27569,7 +28927,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "studio": {
@@ -27605,6 +28962,18 @@
                 {
                     "language": "uk",
                     "string": "Які компанії з виробництва пива розташовані у Північному Рейн-Вестфалії?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія піваварныя кампаніі размешчаны ў штаце Паўночны Рэйн-Вестфалія?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurios alaus daryklos yra Šiaurės Reine-Vestfalijoje?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндәй һыра компанияһы штатында урынлашҡан Төньяҡ Рейн-Вестфалия?"
                 }
             ],
             "query": {
@@ -27619,7 +28988,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "company": {
@@ -27680,6 +29048,18 @@
                 {
                     "language": "uk",
                     "string": "Коли померла принцеса Діана?"
+                },
+                {
+                    "language": "be",
+                    "string": "Калі памерла прынцэса Дыяна?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kada mirė princesė Diana?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Принцесса Диана ҡасан вафат булды?"
                 }
             ],
             "query": {
@@ -27694,7 +29074,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -27722,6 +29101,18 @@
                 {
                     "language": "uk",
                     "string": "Хто засновав Intel?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто заснаваў Intel?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas įkūrė Intel?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Intel кем нигеҙ һалған?"
                 }
             ],
             "query": {
@@ -27736,7 +29127,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -27777,6 +29167,18 @@
                 {
                     "language": "uk",
                     "string": "Хто є наймолодшим гравцем у Прем'єр лізі?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто з'яўляецца самым маладым гульцом Прэм'ер Лігі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas yra jauniausias „Premier“ lygos žaidėjas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Премьер лига иң йәш уйынсы кем булыр?"
                 }
             ],
             "query": {
@@ -27791,7 +29193,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -27826,6 +29227,30 @@
                 {
                     "language": "uk",
                     "string": "На яких інструментах грає Кет Стівенс?"
+                },
+                {
+                    "language": "uk",
+                    "string": "На яких інструментах грав Кет Стівенс?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якімі інструментамі валодае Кэт Стывенс?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokiais instrumentais grojo Kat Stevens?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokiais instrumentais grojo Ket Stivens?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokius instrumentus groja Kat Stevens?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Кэт Стивенс ниндәй музыка ҡоралдарын беләһегеҙ?"
                 }
             ],
             "query": {
@@ -27840,7 +29265,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -27881,6 +29305,14 @@
                 {
                     "language": "uk",
                     "string": "Скільки озер і річок у Південній Кароліні?"
+                },
+                {
+                    "language": "be",
+                    "string": "Колькі рэк і азёр у Паўднёвай Караліне?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek upių ir ežerų yra Pietų Karolinoje?"
                 }
             ],
             "query": {
@@ -27895,7 +29327,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "count": {
@@ -27931,6 +29362,14 @@
                 {
                     "language": "uk",
                     "string": "Кого називали Родзілла?"
+                },
+                {
+                    "language": "be",
+                    "string": "Каго звалі Радзіла?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas buvo Rodzila?"
                 }
             ],
             "query": {
@@ -27945,7 +29384,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": []
                     }
                 }
@@ -27969,6 +29407,14 @@
                 {
                     "language": "uk",
                     "string": "Перерахуйте мені усі столиці усіх країн Африки."
+                },
+                {
+                    "language": "be",
+                    "string": "Назавіце ўсе сталіцы ўсіх краін Афрыкі."
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardinkite visas Afrikos šalių sostines."
                 }
             ],
             "query": {
@@ -27983,7 +29429,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -28398,6 +29843,14 @@
                 {
                     "language": "uk",
                     "string": "Які мости того ж самого типу, що Мангеттенський міст?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якія масты з'яўляюцца мастамі таго ж тыпу, што і Манхэтэнскі мост?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurie tiltai yra tokio paties tipo kaip Manheteno tiltas?"
                 }
             ],
             "query": {
@@ -28412,7 +29865,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "bridge": {
@@ -29731,6 +31183,14 @@
                 {
                     "language": "lt",
                     "string": "Kiek įmonių įkūrė „Facebook“ steigėjas?"
+                },
+                {
+                    "language": "be",
+                    "string": "Як шмат кампаній былі заснаваны заснавальнікам Фэйсбука?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kiek įmonių įkūrė „Facebook“ įkūrėjas?"
                 }
             ],
             "query": {
@@ -29745,7 +31205,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "c": {
@@ -29781,6 +31240,18 @@
                 {
                     "language": "lt",
                     "string": "Parodyk man pėsčiųjų takus Didžiajame kanjone, kur nėra staigių potvynių pavojaus."
+                },
+                {
+                    "language": "be",
+                    "string": "Пакажыце мне паходныя маршруты ў Гарнд каньёне, дзе няма небяспекі паводак."
+                },
+                {
+                    "language": "lt",
+                    "string": "Parodykite man pėsčiųjų takus Garnd kanjone, kur nėra potvynių pavojaus"
+                },
+                {
+                    "language": "lt",
+                    "string": "Parodykite man Garndo kanjono pėsčiųjų takus, kuriuose nėra potvynio pavojaus."
                 }
             ],
             "query": {
@@ -29795,7 +31266,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -29836,6 +31306,14 @@
                 {
                     "language": "lt",
                     "string": "Kuri knyga turi daugiausiai puslapių?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якой кнізе больш за ўсё старонак?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Барыһы китап биттәрендә күберәк ниндәй?"
                 }
             ],
             "query": {
@@ -29850,7 +31328,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -29885,6 +31362,18 @@
                 {
                     "language": "lt",
                     "string": "Kokia didžiausia JAV valstija?"
+                },
+                {
+                    "language": "be",
+                    "string": "Які з штатаў ЗША - найбольшы?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuri iš JAV valstijų yra didžiausia?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Аҡш штаттары араһында ниндәй - оло?"
                 }
             ],
             "query": {
@@ -29899,7 +31388,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
@@ -29934,6 +31422,10 @@
                 {
                     "language": "lt",
                     "string": "Pasakyk man kompanijų svetaines su daugiau nei 500.000 darbuotojų."
+                },
+                {
+                    "language": "lt",
+                    "string": "Parodykite man įmonių, kuriose dirba daugiau nei 500 000 darbuotojų, svetaines"
                 }
             ],
             "query": {
@@ -29948,7 +31440,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "web": {
@@ -30157,6 +31648,14 @@
                 {
                     "language": "lt",
                     "string": "Kokios buvo trys Kolumbo laivų pavadinimai?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kaip vadinosi trys Kolumbo laivai?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Колумб өс карабы нисек аталған?"
                 }
             ],
             "query": {
@@ -30171,7 +31670,6 @@
                         ]
                     },
                     "results": {
-
                         "bindings": [
                             {
                                 "uri": {
