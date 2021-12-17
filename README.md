@@ -10,18 +10,18 @@ As the questions' translations were provided by native speakers, they are consid
 
 # Dataset Statistics
 
-|       | en  | de  | ru   | lt | uk  | be | hy | fr | DBpedia | Wikidata | # questions |
-|-------|-----|-----|------|----|-----|----|-----|----|---------|----------|-------------|
-| Train | 408 | 545 | 1294 | 63 | 262 | 80 |  80 | 80 |     408 |      371 |         408 |
-| Test  | 150 | 177 |  378 | 28 | 170 | 12 |  20 | 20 |     150 |      136 |         150 |
+|       |  en |  de | fr |  ru  |  uk |  lt |  be |  ba | hy | # questions DBpedia | # questions Wikidata |
+|-------|:---:|:---:|:--:|:----:|:---:|:---:|:---:|:---:|:--:|:-----------:|:-----------:|
+| Train | 408 | 543 | 80 | 1203 | 447 | 468 | 441 | 284 | 80 |     408     |     371     |
+| Test  | 150 | 176 | 20 |  348 | 176 | 186 | 155 | 117 | 20 |     150     |     136     |
 
 Given the numbers, it is obvious that some of the languages are covered more than once \ie there is more than one translation for a particular question.
-For example, there are 1294 Russian translations available while only 408 unique questions exist in the training subset (\ie 3.2 Russian translations per one question).
-This enables the dataset users to address also the paraphrasing task.
+For example, there are 1203 Russian translations available while only 408 unique questions exist in the training subset (\ie 2.9 Russian translations per one question).
+The availability of such parallel corpora enables the researchers, developers and other dataset users to address the paraphrasing task.
 
 # Evaluation
 
-We used [GERBIL]() system for the evaluation of the dataset.The detailed information for the experiments is available at the individual link (click the value in the cells).
+We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluation of the dataset.The detailed information for the experiments is available at the individual link (click the value in the cells).
 
 ## Wikidata
 
