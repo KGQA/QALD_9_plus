@@ -1,8 +1,8 @@
-# QALD+ Dataset Description
+# QALD-9-Plus Dataset Description
 
-QALD+ is the dataset for Knowledge Graph Question Answering (KGQA) based on well-known [QALD-9](https://github.com/ag-sc/QALD/tree/master/9/data).
+QALD-9-Plus is the dataset for Knowledge Graph Question Answering (KGQA) based on well-known [QALD-9](https://github.com/ag-sc/QALD/tree/master/9/data).
 
-QALD+ enables to train and test KGQA systems over DBpedia and Wikidata using questions in 8 different languages.
+QALD-9-Plus enables to train and test KGQA systems over DBpedia and Wikidata using questions in 9 different languages: English, German, Russian, French, Armenian, Belarusian, Lithuanian, Bashkir, and Ukrainian.
 
 Some of the questions have several alternative writings in particular languages which enables to evaluate the robustness of KGQA systems and train paraphrasing models.
 
@@ -12,16 +12,16 @@ As the questions' translations were provided by native speakers, they are consid
 
 |       |  en |  de | fr |  ru  |  uk |  lt |  be |  ba | hy | # questions DBpedia | # questions Wikidata |
 |-------|:---:|:---:|:--:|:----:|:---:|:---:|:---:|:---:|:--:|:-----------:|:-----------:|
-| Train | 408 | 543 | 80 | 1203 | 447 | 468 | 441 | 284 | 80 |     408     |     371     |
-| Test  | 150 | 176 | 20 |  348 | 176 | 186 | 155 | 117 | 20 |     150     |     136     |
+| Train | 408 | 543 | 260 | 1203 | 447 | 468 | 441 | 284 | 80 |     408     |     371     |
+| Test  | 150 | 176 | 26 |  348 | 176 | 186 | 155 | 117 | 20 |     150     |     136     |
 
-Given the numbers, it is obvious that some of the languages are covered more than once \ie there is more than one translation for a particular question.
-For example, there are 1203 Russian translations available while only 408 unique questions exist in the training subset (\ie 2.9 Russian translations per one question).
+Given the numbers, it is obvious that some of the languages are covered more than once i.e., there is more than one translation for a particular question.
+For example, there are 1203 Russian translations available while only 408 unique questions exist in the training subset (i.e., 2.9 Russian translations per one question).
 The availability of such parallel corpora enables the researchers, developers and other dataset users to address the paraphrasing task.
 
 # Evaluation
 
-We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluation of the dataset.The detailed information for the experiments is available at the individual link (click the value in the cells).
+We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluation of the dataset. The detailed information for the experiments is available at the individual link (click the value in the cells).
 
 ## Wikidata
 
@@ -29,22 +29,22 @@ We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluatio
 
 |     | en | de | ru | fr |
 |-----|----|----|----|----|
-|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110210028)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202111120007)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110210030)|
-|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010007)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080002)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202111120009)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080004)|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180000)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180002)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010007)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180006)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180007)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180008)|
 
 ### DeepPavlov
 
 |     | en | ru |
 |-----|----|----|
-|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080010)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202111120008)|
-|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110090001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110000)|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110080010)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180003)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110090001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180009)|
 
 ### Platypus
 
 |     | en | fr |
 |-----|----|----|
-|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110004)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110005)|
-|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110006)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110120000)|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110004)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180004)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110110006)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180010)|
 
 
 ## DBpedia
