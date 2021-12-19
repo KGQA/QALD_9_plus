@@ -56,6 +56,38 @@ We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluatio
 |Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110120004)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190000)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190002)|
 |Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110130002)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190003)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190004)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190005)|
 
+## Wikidata Original Translations
+
+### QAnswer
+
+|     | de | ru | fr |
+|-----|----|----|----|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190006)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190007)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190008)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190009)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190010)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190011)|
+
+### DeepPavlov
+
+|     | ru |
+|-----|----|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190012)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190014)|
+
+### Platypus
+
+|     | fr |
+|-----|----|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190013)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190015)|
+
+## DBpedia Original Translations
+
+### QAnswer
+
+|     | de | ru | fr |
+|-----|----|----|----|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190016)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190017)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190018)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190019)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190020)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190021)|
+
 # Cite
 
 To Be Done
