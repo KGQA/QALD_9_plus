@@ -53,8 +53,8 @@ We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluatio
 
 |     | en | de | ru | fr |
 |-----|----|----|----|----|
-|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110120004)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110120005)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110130000)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110130001)|
-|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110130002)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110140000)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110150000)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110150001)|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110120004)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190000)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190002)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110130002)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190003)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190004)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112190005)|
 
 # Cite
 
