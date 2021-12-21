@@ -11,7 +11,7 @@
 >
   <dcat:Dataset rdf:about="https://figshare.com/articles/dataset/QALD-9_/16864273">
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-10-24T00:00:00.000000</dct:issued>
-    <dct:identifier>qald-9+</dct:identifier>
+    <dct:identifier>qald-9-plus</dct:identifier>
     <dct:creator>
         <foaf:Person rdf:nodeID="https://github.com/Perevalov">
         </foaf:Person>
@@ -24,14 +24,14 @@
         <foaf:Person rdf:nodeID="https://github.com/RicardoUsbeck">
         </foaf:Person>
     </dct:creator>
-    <dct:title>improved and extended 9th Question Answering over Linked Data (QALD-9+)</dct:title>
-    <dct:description><![CDATA[<p>The ability to have the same experience for different user groups (\ie accessibility) is one of the most important characteristics of web-based systems.
+    <dct:title>improved and extended 9th Question Answering over Linked Data (QALD-9-Plus)</dct:title>
+    <dct:description><![CDATA[<p>The ability to have the same experience for different user groups (i.e., accessibility) is one of the most important characteristics of web-based systems.
         The same is true for Knowledge Graph Question Answering (KGQA) systems.
         While following our research agenda on the multilingual aspect of accessibility of KGQA systems, we identified several ongoing challenges.
         One of them is the lack of multilingual KGQA datasets.
         </p><p>
-        In this work, we extend one of the most popular KGQA datasets -- QALD-9 by introducing diverse and unbiased questions' translations to 7 languages provided by native speakers, and transferring the SPARQL queries of QALD-9 from DBpedia to Wikidata, s.t., the usability and relevance of the dataset is strongly increased.
-        We call the extended dataset QALDplus and made it available online.</p>]]></dct:description>
+        In this work, we extend one of the most popular KGQA datasets -- QALD-9 by introducing diverse and unbiased questions' translations to 8 languages provided by native speakers, and transferring the SPARQL queries of QALD-9 from DBpedia to Wikidata, s.t., the usability and relevance of the dataset is strongly increased.
+        We call the extended dataset QALD-9-plus and made it available online.</p>]]></dct:description>
     <dcat:keyword>Question Answering</dcat:keyword>
     <dcat:keyword>Linked Data</dcat:keyword>
     <dcat:keyword>Multilingual</dcat:keyword>
