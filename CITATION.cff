@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  QALD-9-plus: A Multilingual Dataset for Question
+  Answering over DBpedia and Wikidata Translated by
+  Native Speakers
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Aleksandr
+    family-names: Perevalov
+    email: perevalovproduction@gmail.com
+    affiliation: Anhalt University of Applied Sciences
+    orcid: 'https://orcid.org/0000-0002-6803-3357'
+  - given-names: Dennis
+    family-names: Diefenbach
+    email: dennis.diefenbach@univ-st-etienne.fr
+    affiliation: >-
+      Laboratoire Hubert Curien CNRS UMR 5516
+      Université de Lyon
+    orcid: 'https://orcid.org/0000-0002-0046-2219'
+  - given-names: Ricardo
+    family-names: Usbeck
+    email: ricardo.usbeck@uni-hamburg.de
+    affiliation: Universität Hamburg
+    orcid: 'https://orcid.org/0000-0002-0191-7211'
+  - given-names: Andreas
+    family-names: Both
+    email: andreas.both@hs-anhalt.de
+    affiliation: Anhalt University of Applied Sciences
+    orcid: 'https://orcid.org/0000-0002-9177-5463'
