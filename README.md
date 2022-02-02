@@ -108,6 +108,7 @@ We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluatio
 * Papers with Code: [Paper](https://paperswithcode.com/paper/qald-9-plus-a-multilingual-dataset-for-1), [Dataset](https://paperswithcode.com/dataset/qald-9-plus)
 * Video presentation on YouTube: https://youtu.be/W1w7CJTV48c
 * Presentation [slides](https://drive.google.com/file/d/1cDphq4DeSiZr-WBvdwu34rcxQ0aP4q95/view?usp=sharing)
+* Google Colab [notebook](https://colab.research.google.com/drive/1eWsQoIaeT9_vii1v3PVU04Rms4EoyLAh?usp=sharing)
 
 # Licence
 
