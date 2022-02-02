@@ -92,6 +92,7 @@ We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluatio
 
 # Cite
 
+```bibtex
 @misc{perevalov2022qald9plus,
       title={QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers}, 
       author={Aleksandr Perevalov and Dennis Diefenbach and Ricardo Usbeck and Andreas Both},
@@ -100,6 +101,7 @@ We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluatio
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+```
 
 # Useful Links
 
