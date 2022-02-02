@@ -90,7 +90,19 @@ We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluatio
 
 # Cite
 
-To Be Done
+@misc{perevalov2022qald9plus,
+      title={QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers}, 
+      author={Aleksandr Perevalov and Dennis Diefenbach and Ricardo Usbeck and Andreas Both},
+      year={2022},
+      eprint={2202.00120},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+# Useful Links
+
+* Papers with Code: [Paper](https://paperswithcode.com/paper/qald-9-plus-a-multilingual-dataset-for-1), [Dataset](https://paperswithcode.com/dataset/qald-9-plus)
+* Video presentation on YouTube: https://youtu.be/W1w7CJTV48c
 
 # Licence
 
