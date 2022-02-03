@@ -1,7 +1,5 @@
 # QALD-9-Plus Dataset Description
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/qald-9-plus-a-multilingual-dataset-for-1/knowledge-base-question-answering-on-qald-9)](https://paperswithcode.com/sota/knowledge-base-question-answering-on-qald-9?p=qald-9-plus-a-multilingual-dataset-for-1)
-
 QALD-9-Plus is the dataset for Knowledge Graph Question Answering (KGQA) based on well-known [QALD-9](https://github.com/ag-sc/QALD/tree/master/9/data).
 
 QALD-9-Plus enables to train and test KGQA systems over DBpedia and Wikidata using questions in 9 different languages: English, German, Russian, French, Armenian, Belarusian, Lithuanian, Bashkir, and Ukrainian.
