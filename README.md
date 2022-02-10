@@ -1,8 +1,8 @@
-# QALD-9-Plus Dataset Description
+# QALD-9-plus Dataset Description
 
-QALD-9-Plus is the dataset for Knowledge Graph Question Answering (KGQA) based on well-known [QALD-9](https://github.com/ag-sc/QALD/tree/master/9/data).
+QALD-9-plus is the dataset for Knowledge Graph Question Answering (KGQA) based on well-known [QALD-9](https://github.com/ag-sc/QALD/tree/master/9/data).
 
-QALD-9-Plus enables to train and test KGQA systems over DBpedia and Wikidata using questions in 9 different languages: English, German, Russian, French, Armenian, Belarusian, Lithuanian, Bashkir, and Ukrainian.
+QALD-9-plus enables to train and test KGQA systems over DBpedia and Wikidata using questions in 9 different languages: English, German, Russian, French, Armenian, Belarusian, Lithuanian, Bashkir, and Ukrainian.
 
 Some of the questions have several alternative writings in particular languages which enables to evaluate the robustness of KGQA systems and train paraphrasing models.
 
@@ -91,10 +91,12 @@ We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluatio
 # Cite
 
 ```bibtex
-@misc{perevalov2022qald9plus,
-      title={QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers}, 
+@inproceedings{perevalov2022qald9plus,
+      title={{QALD-9-plus}: A Multilingual Dataset for Question Answering over {DBpedia} and {Wikidata} Translated by Native Speakers}, 
       author={Aleksandr Perevalov and Dennis Diefenbach and Ricardo Usbeck and Andreas Both},
       year={2022},
+      booktitle={2022 IEEE 16th International Conference on Semantic Computing (ICSC)},
+      organization={IEEE},
       eprint={2202.00120},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
@@ -109,9 +111,7 @@ We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluatio
 * Presentation [slides](https://drive.google.com/file/d/1cDphq4DeSiZr-WBvdwu34rcxQ0aP4q95/view?usp=sharing)
 * Google Colab [notebook](https://colab.research.google.com/drive/1eWsQoIaeT9_vii1v3PVU04Rms4EoyLAh?usp=sharing)
 
-# Licence
-
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+# Licence [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
@@ -121,3 +121,61 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+
+# Dataset Metadata
+
+The following table is necessary for this dataset to be indexed by search
+engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
+<div itemscope itemtype="http://schema.org/Dataset">
+<table>
+  <tr>
+    <th>property</th>
+    <th>value</th>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td><code itemprop="name">QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers</code></td>
+  </tr>
+  <tr>
+    <td>alternateName</td>
+    <td><code itemprop="alternateName">QALD-9-plus</code></td>
+  </tr>
+  <tr>
+    <td>url</td>
+    <td><code itemprop="url">https://github.com/Perevalov/qald_9_plus/tree/main/data</code></td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td><code itemprop="description">QALD-9-Plus is the dataset for Knowledge Graph Question Answering (KGQA) based on well-known QALD-9.<br/>
+QALD-9-Plus enables to train and test KGQA systems over DBpedia and Wikidata using questions in 9 different languages: English, German, Russian, French, Armenian, Belarusian, Lithuanian, Bashkir, and Ukrainian.<br/>
+Some of the questions have several alternative writings in particular languages which enables to evaluate the robustness of KGQA systems and train paraphrasing models.<br/>
+As the questions' translations were provided by native speakers, they are considered as "gold standard", therefore, machine translation tools can be trained and evaluated on the dataset.</code></td>
+  </tr>
+  <tr>
+    <td>license</td>
+    <td>
+      <div itemscope itemtype="http://schema.org/CreativeWork" itemprop="license">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">CC-BY-4.0</code></td>
+          </tr>
+          <tr>
+            <td>url</td>
+            <td><code itemprop="url">https://creativecommons.org/licenses/by/4.0/</code></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>citation</td>
+    <td><code itemprop="citation">Perevalov, Aleksandr, Diefenbach, Diefenback, Usbeck, Ricardo, Both, Andreas: QALD-9-plus: A multilingual dataset for question answering over DBpedia and Wikidata translated by native speakers. In: 2022 IEEE 16th International Conference on Semantic Computing (ICSC). IEEE (2022)</code></td>
+  </tr>
+</table>
+</div>
