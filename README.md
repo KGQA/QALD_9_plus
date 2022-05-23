@@ -92,14 +92,12 @@ We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluatio
 
 ```bibtex
 @inproceedings{perevalov2022qald9plus,
-      title={{QALD-9-plus}: A Multilingual Dataset for Question Answering over {DBpedia} and {Wikidata} Translated by Native Speakers}, 
-      author={Aleksandr Perevalov and Dennis Diefenbach and Ricardo Usbeck and Andreas Both},
-      year={2022},
+      author={Perevalov, Aleksandr and Diefenbach, Dennis and Usbeck, Ricardo and Both, Andreas},
       booktitle={2022 IEEE 16th International Conference on Semantic Computing (ICSC)},
-      organization={IEEE},
-      eprint={2202.00120},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      title={QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers},
+      year={2022},
+      pages={229-234},
+      doi={10.1109/ICSC52841.2022.00045}
 }
 ```
 
