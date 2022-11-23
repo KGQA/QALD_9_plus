@@ -10,10 +10,10 @@ As the questions' translations were provided by native speakers, they are consid
 
 # Dataset Statistics
 
-|       |  en |  de | fr |  ru  |  uk |  lt |  be |  ba | hy | # questions DBpedia | # questions Wikidata |
-|-------|:---:|:---:|:--:|:----:|:---:|:---:|:---:|:---:|:--:|:-----------:|:-----------:|
-| Train | 408 | 543 | 260 | 1203 | 447 | 468 | 441 | 284 | 80 |     408     |     371     |
-| Test  | 150 | 176 | 26 |  348 | 176 | 186 | 155 | 117 | 20 |     150     |     136     |
+|       |  en |  de | fr |  ru  |  uk |  lt |  be |  ba | hy | es | # questions DBpedia | # questions Wikidata |
+|-------|:---:|:---:|:--:|:----:|:---:|:---:|:---:|:---:|:--:|;--;|:-----------:|:-----------:|
+| Train | 408 | 543 | 260 | 1203 | 447 | 468 | 441 | 284 | 80 | 408 |     408     |     371     |
+| Test  | 150 | 176 | 26 |  348 | 176 | 186 | 155 | 117 | 20 | 150 |     150     |     136     |
 
 Given the numbers, it is obvious that some of the languages are covered more than once i.e., there is more than one translation for a particular question.
 For example, there are 1203 Russian translations available while only 408 unique questions exist in the training subset (i.e., 2.9 Russian translations per one question).
@@ -27,10 +27,10 @@ We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluatio
 
 ### QAnswer
 
-|     | en | de | ru | fr |
-|-----|----|----|----|----|
-|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180000)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180002)|
-|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010007)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180006)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180007)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180008)|
+|     | en | de | ru | fr | es |
+|-----|----|----|----|----|----|
+|Test |[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180000)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180001)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180002)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202211180000)|
+|Train|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202110010007)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180006)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180007)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202112180008)|[link](http://gerbil-qa.aksw.org/gerbil/experiment?id=202211210000)|
 
 ### DeepPavlov
 
