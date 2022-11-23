@@ -11,7 +11,7 @@ As the questions' translations were provided by native speakers, they are consid
 # Dataset Statistics
 
 |       |  en |  de | fr |  ru  |  uk |  lt |  be |  ba | hy | es | # questions DBpedia | # questions Wikidata |
-|-------|:---:|:---:|:--:|:----:|:---:|:---:|:---:|:---:|:--:|;--;|:-----------:|:-----------:|
+|-------|:---:|:---:|:--:|:----:|:---:|:---:|:---:|:---:|:--:|:--:|:-----------:|:-----------:|
 | Train | 408 | 543 | 260 | 1203 | 447 | 468 | 441 | 284 | 80 | 408 |     408     |     371     |
 | Test  | 150 | 176 | 26 |  348 | 176 | 186 | 155 | 117 | 20 | 150 |     150     |     136     |
 
