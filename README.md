@@ -21,7 +21,7 @@ The availability of such parallel corpora enables the researchers, developers an
 
 # Evaluation
 
-We used [GERBIL](https://github.com/dice-group/gerbil/) system for the evaluation of the dataset. The detailed information for the experiments is available at the individual link (click the value in the cells).
+We used the [GERBIL QA](https://github.com/dice-group/gerbil/) system for the evaluation of the dataset. The detailed information for the experiments is available at the individual link (click the value in the cells).
 
 ## Wikidata
 
